@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculateur de ROI – Eagr</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #FFFFFF;
+            --bg-secondary: #F8F9FA;
+            --text-primary: #1A1A2E;
+            --text-secondary: #6B7280;
+            --accent: #e35e26;
+            --accent-light: #f7a07a;
+            --accent-gradient: linear-gradient(135deg, #e35e26, #f7a07a);
+            --card-border: rgba(0, 0, 0, 0.08);
+            --success: #10B981;
+            --radius-sm: 8px;
+            --radius-md: 16px;
+            --radius-lg: 24px;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--text-primary);
+        }
+
+        .header p {
+            font-size: 1rem;
+            color: var(--text-secondary);
+        }
+
+        /* Main Card */
+        .calculator-card {
+            background: var(--bg-primary);
+            border-radius: var(--radius-lg);
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+            padding: 40px;
+        }
+
+        .section-title {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--accent);
+            font-weight: 600;
+            margin-bottom: 24px;
+        }
+
+        /* Form Grid */
+        .form-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+            margin-bottom: 40px;
+        }
+
+        @media (max-width: 600px) {
+            .form-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .form-group.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .form-group label {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--text-primary);
+        }
+
+        .form-group input,
+        .form-group select {
+            padding: 14px 16px;
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-sm);
+            font-size: 1rem;
+            font-family: inherit;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            background: var(--bg-primary);
+        }
+
+        /* Cacher les flèches des inputs number */
+        .form-group input[type="number"]::-webkit-outer-spin-button,
+        .form-group input[type="number"]::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        .form-group input[type="number"] {
+            -moz-appearance: textfield;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus {
+            outline: none;
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(227, 94, 38, 0.1);
+        }
+
+        .form-group .hint {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-top: 4px;
+        }
+
+        .form-group .hint strong {
+            color: var(--accent);
+        }
+
+        /* Divider */
+        .divider {
+            height: 1px;
+            background: var(--card-border);
+            margin: 40px 0;
+        }
+
+        /* Results */
+        .investment-block {
+            margin-bottom: 24px;
+        }
+
+        .investment-card {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-sm);
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .investment-card .label {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-secondary);
+        }
+
+        .investment-card .value-group {
+            display: flex;
+            align-items: baseline;
+        }
+
+        .investment-card .value {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .investment-card .suffix {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-left: 4px;
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        @media (max-width: 500px) {
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .result-card {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-md);
+            padding: 20px;
+            text-align: center;
+        }
+
+        .result-card .label {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+
+        .result-card .value {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        /* Hero Results - Gain et ROI */
+        .hero-results {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+
+        @media (max-width: 500px) {
+            .hero-results {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .hero-result-card {
+            border-radius: var(--radius-md);
+            padding: 32px 24px;
+            text-align: center;
+        }
+
+        .hero-result-card.success {
+            background: linear-gradient(135deg, #10B981, #34D399);
+        }
+
+        .hero-result-card.highlight {
+            background: var(--accent-gradient);
+        }
+
+        .hero-result-card .label {
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: rgba(255, 255, 255, 0.85);
+            margin-bottom: 12px;
+        }
+
+        .hero-result-card .value {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: white;
+        }
+
+        .hero-result-card .suffix {
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.8);
+            margin-top: 4px;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            margin-top: 40px;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+
+        .footer a {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Negative values */
+        .negative {
+            color: #EF4444 !important;
+        }
+
+        /* Slider */
+        .slider-container {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .slider {
+            flex: 1;
+            -webkit-appearance: none;
+            appearance: none;
+            height: 8px;
+            background: var(--bg-secondary);
+            border-radius: 4px;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 24px;
+            height: 24px;
+            background: var(--accent-gradient);
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(227, 94, 38, 0.3);
+            transition: transform 0.15s;
+        }
+
+        .slider::-webkit-slider-thumb:hover {
+            transform: scale(1.1);
+        }
+
+        .slider::-moz-range-thumb {
+            width: 24px;
+            height: 24px;
+            background: var(--accent);
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(227, 94, 38, 0.3);
+        }
+
+        .slider-value {
+            min-width: 50px;
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--accent);
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Calculateur de ROI</h1>
+            <p>Estimez le retour sur investissement d'Eagr pour votre équipe commerciale</p>
+        </div>
+
+        <div class="calculator-card">
+            <div class="section-title">Vos données</div>
+            
+            <div class="form-grid">
+                <div class="form-group">
+                    <label for="ca">CA annuel de l'équipe commerciale</label>
+                    <input type="text" id="ca" placeholder="ex: 1 000 000" value="1 000 000" inputmode="numeric">
+                </div>
+
+                <div class="form-group">
+                    <label for="sales">Nombre de commerciaux</label>
+                    <input type="number" id="sales" placeholder="ex: 10" value="10">
+                </div>
+
+                <div class="form-group">
+                    <label for="option">Option Eagr</label>
+                    <select id="option">
+                        <option value="29">Analyses seul – 29€/user/mois</option>
+                        <option value="58">Analyses + Simulations – 58€/user/mois</option>
+                        <option value="49">Recorder seul – 49€/user/mois</option>
+                        <option value="78" selected>Recorder + Simulations – 78€/user/mois</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="concurrent">Coût de votre solution actuelle (€/user/mois)</label>
+                    <input type="number" id="concurrent" placeholder="ex: 50" value="0">
+                    <span class="hint">Laissez 0 si vous n'avez pas de solution actuellement</span>
+                </div>
+
+                <div class="form-group full-width">
+                    <label for="taux-actuel">Taux de conversion actuel</label>
+                    <div class="slider-container">
+                        <input type="range" id="taux-actuel" min="5" max="50" value="20" class="slider">
+                        <span class="slider-value" id="taux-actuel-value">20%</span>
+                    </div>
+                    <span class="hint">Le % de vos opportunités qui se transforment en clients</span>
+                </div>
+
+                <div class="form-group full-width">
+                    <label for="uplift">Amélioration estimée (en points)</label>
+                    <div class="slider-container">
+                        <input type="range" id="uplift" min="1" max="8" value="2" class="slider">
+                        <span class="slider-value" id="uplift-value">+2 pts</span>
+                    </div>
+                    <span class="hint">💡 Ex: passer de 20% à 22% = <strong>+2 points</strong>. En moyenne, on constate 2 à 8 points d'écart selon la maturité de l'équipe.</span>
+                </div>
+            </div>
+
+            <div class="divider"></div>
+
+            <div class="section-title">Résultats</div>
+
+            <div class="investment-block">
+                <div class="investment-card">
+                    <div class="label">Investissement Eagr</div>
+                    <div class="value-group">
+                        <span class="value" id="cout-eagr">–</span>
+                        <span class="suffix">/ an</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="results-grid">
+                <div class="result-card">
+                    <div class="label">CA additionnel généré</div>
+                    <div class="value" id="ca-additionnel">–</div>
+                </div>
+                <div class="result-card">
+                    <div class="label">Économie vs solution actuelle / an</div>
+                    <div class="value" id="economie">–</div>
+                </div>
+            </div>
+
+            <div class="hero-results">
+                <div class="hero-result-card success">
+                    <div class="label">Gain net annuel</div>
+                    <div class="value" id="gain-net">–</div>
+                </div>
+                <div class="hero-result-card highlight">
+                    <div class="label">Payback</div>
+                    <div class="value" id="payback">–</div>
+                    <div class="suffix">mois</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>Découvrez comment Eagr peut transformer votre équipe commerciale → <a href="https://eagr.ai" target="_blank">eagr.ai</a></p>
+        </div>
+    </div>
+
+    <script>
+        function formatNumber(num) {
+            return new Intl.NumberFormat('fr-FR', { 
+                style: 'currency', 
+                currency: 'EUR',
+                maximumFractionDigits: 0 
+            }).format(num);
+        }
+
+        function formatWithSpaces(num) {
+            return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+        }
+
+        function parseFormattedNumber(str) {
+            return parseFloat(str.replace(/\s/g, '')) || 0;
+        }
+
+        // Formatage du champ CA
+        const caInput = document.getElementById('ca');
+        caInput.addEventListener('input', function(e) {
+            let value = this.value.replace(/\s/g, '').replace(/[^\d]/g, '');
+            if (value) {
+                this.value = formatWithSpaces(value);
+            }
+            calculate();
+        });
+
+        function calculate() {
+            // Inputs
+            const ca = parseFormattedNumber(document.getElementById('ca').value);
+            const sales = parseFloat(document.getElementById('sales').value) || 0;
+            const tauxActuel = parseFloat(document.getElementById('taux-actuel').value) || 20;
+            const upliftPoints = parseFloat(document.getElementById('uplift').value) || 0;
+            const prixOption = parseFloat(document.getElementById('option').value) || 0;
+            const coutConcurrent = parseFloat(document.getElementById('concurrent').value) || 0;
+
+            // Calculs
+            const coutEagrAnnuel = prixOption * sales * 12;
+            const upliftRelatif = upliftPoints / tauxActuel; // ex: 2 points sur 20% = 10% d'amélioration
+            const caAdditionnel = ca * upliftRelatif;
+            const coutConcurrentAnnuel = coutConcurrent * sales * 12;
+            const economie = coutConcurrent > 0 ? coutConcurrentAnnuel - coutEagrAnnuel : 0;
+            const gainNet = caAdditionnel - coutEagrAnnuel + coutConcurrentAnnuel;
+            const gainMensuel = gainNet / 12;
+            const payback = gainMensuel > 0 ? coutEagrAnnuel / gainMensuel : 0;
+
+            // Affichage
+            document.getElementById('cout-eagr').textContent = formatNumber(coutEagrAnnuel);
+            document.getElementById('ca-additionnel').textContent = formatNumber(caAdditionnel);
+            
+            const economieEl = document.getElementById('economie');
+            economieEl.textContent = formatNumber(economie);
+            economieEl.classList.toggle('negative', economie < 0);
+
+            const gainNetEl = document.getElementById('gain-net');
+            gainNetEl.textContent = formatNumber(gainNet);
+
+            document.getElementById('payback').textContent = payback > 0 && payback < 999 ? payback.toFixed(1) : '–';
+        }
+
+        // Calcul au chargement et à chaque changement
+        document.querySelectorAll('input:not(#ca), select').forEach(el => {
+            el.addEventListener('input', calculate);
+            el.addEventListener('change', calculate);
+        });
+
+        // Mise à jour de l'affichage du slider taux actuel
+        const tauxSlider = document.getElementById('taux-actuel');
+        const tauxValue = document.getElementById('taux-actuel-value');
+        
+        tauxSlider.addEventListener('input', function() {
+            tauxValue.textContent = this.value + '%';
+        });
+
+        // Mise à jour de l'affichage du slider uplift
+        const upliftSlider = document.getElementById('uplift');
+        const upliftValue = document.getElementById('uplift-value');
+        
+        upliftSlider.addEventListener('input', function() {
+            upliftValue.textContent = '+' + this.value + ' pts';
+        });
+
+        calculate();
+    </script>
+</body>
+</html>
