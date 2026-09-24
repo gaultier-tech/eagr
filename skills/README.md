@@ -27,7 +27,10 @@
 - `list_real_case_sessions` renvoie `data: []` avec `hasMore: true` et `nextCursor: null` (constaté avec un
   compte admin). Les skills le traitent comme une anomalie, mais tant que ce n'est pas corrigé, elles ne
   peuvent pas lire les appels.
-- Renvoyer une **URL de session** dans les réponses du connecteur (les skills n'affichent un lien que s'il est fourni).
+- Le champ `url` des sessions est vide : les skills construisent le lien `https://app.eagr.ai/v2/call-reviews/<uuid>`
+  depuis l'id `rcs_<uuid>`. Si ce format change, mettre à jour `_socle.md`. Le remplir côté API serait plus robuste.
+- Preuve du bug de liste : `rcs_d50ef02c-…` (créé le 24/09, même organisation) se lit bien par son id, mais
+  n'apparaît pas dans `list_real_case_sessions`.
 - Ajouter un outil qui **liste les types d'insights** et **filtre les appels par insight** (aujourd'hui
   `feature-feedback` échantillonne et lit les appels un par un, plafond de 100).
 - Confirmer la **visibilité par rôle** (un commercial voit-il les appels des deals gagnés de ses collègues ?).

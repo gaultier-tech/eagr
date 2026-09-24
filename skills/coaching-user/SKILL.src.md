@@ -108,7 +108,7 @@ compteurs de deals, scores /4, évolution) n'apparaissent **que** dans l'artefac
 Le texte narratif (prose + bullets, **pas de tableaux de chiffres**) :
 - **Suivi des objectifs** : précédents + verdict d'une ligne chacun (atteint/partiel/non) + pourquoi. (Sinon : pas d'historique.)
 - **Activité CRM** : le **constat en prose** (ex. « le haut de funnel tourne, 0 signature ») + la **liste des deals à traiter en priorité** (stagnants à débloquer) en bullets actionnables. Les compteurs chiffrés (créés / gagnés / perdus / closing / appels) sont dans les **cartes KPIs de l'artefact**, pas ici.
-- **Évolution playbook** : points forts + 1-2 axes majeurs ; chaque axe situé **vs son passé** et **vs l'équipe**, illustré par **1-2 extraits de transcripts cités** : et pour **chaque appel cité, mets sa référence** (lien cliquable si Eagr fournit l'URL, sinon titre · date · id, ex. `R2 Heppner · 12/09 · rcs_…`), pour que le manager réécoute en un clic. Les **scores /4 par compétence** sont dans les barres de l'artefact, pas en tableau ici.
+- **Évolution playbook** : points forts + 1-2 axes majeurs ; chaque axe situé **vs son passé** et **vs l'équipe**, illustré par **1-2 extraits de transcripts cités**, et pour **chaque appel cité, mets le lien Eagr** (§0, ex. `[R2 Heppner · 12/09](https://app.eagr.ai/v2/call-reviews/…)`), pour que le manager réécoute en un clic. Les **scores /4 par compétence** sont dans les barres de l'artefact, pas en tableau ici.
 - **Performance par segment** : **en une phrase**, où il décroche (ex. « le R1 est solide, le R2 décroche »). Les **scores chiffrés par segment** sont dans le graphe de l'artefact.
 - **Plan de coaching** : 1-2 priorités (quoi, comment, résultat attendu).
 - **Agenda 1:1** : ordre du jour prêt.

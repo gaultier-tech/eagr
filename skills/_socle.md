@@ -13,7 +13,10 @@
 - **`data: []` avec `hasMore: true`** = anomalie, pas « aucun appel » : réessaie une fois sur une
   période plus courte, sinon dis que la lecture a échoué. Appels visibles au CRM mais absents d'Eagr →
   « ton rôle Eagr n'y a peut-être pas accès ».
-- **Liens** : jamais d'URL inventée. Pas d'URL fournie par Eagr → titre · date · id.
+- **Liens d'appel** : `rcs_<uuid>` → `https://app.eagr.ai/v2/call-reviews/<uuid>` (id sans le préfixe
+  `rcs_`). Session live coach → lien de son `realCaseSessionId` ; sans lui, pas de lien. Format :
+  `[titre · date](lien)`. Aucune autre URL construite ou devinée ; ne partage **jamais** `recordUrl`
+  (lien d'enregistrement signé, temporaire).
 - **Sans mémoire** : à la fin du setup, affiche le bloc « Ma config Eagr » à recoller ; idem pour
   tout journal. Ne perds jamais un historique en silence.
 - Distingue **vérifié** (CRM, Eagr, emails) et **hypothèse** (web, inférence). Introuvable → dis-le.

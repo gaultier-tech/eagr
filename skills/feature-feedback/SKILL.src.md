@@ -1,6 +1,6 @@
 ---
 name: feature-feedback
-description: Voix du client pour le produit. À partir de l'insight Eagr « feedback produit » capté dans les calls, sort le feedback sous trois angles : fonctionnalités manquantes (réclamées), à améliorer (frictions) et vraiment bien (ce qu'ils adorent). Chaque feature est priorisée par fréquence, tendance, sévérité et impact deal (€ de pipeline, deals perdus), avec verbatims et référence de l'appel. Nécessite un insight « feedback produit » configuré dans Eagr ; sinon explique comment le créer. Utilise cette skill dès qu'une équipe produit veut prioriser son backlog depuis la voix du client, savoir quelle feature manquante coûte des deals, ou ce que les prospects adorent, même sans dire « features ». Commandes : `install voix client` configure ; `voix client [période]` (ou `features`) génère.
+description: Voix du client pour le produit. À partir de l'insight Eagr « feedback produit » capté dans les calls, sort le feedback sous trois angles : fonctionnalités manquantes (réclamées), à améliorer (frictions) et vraiment bien (ce qu'ils adorent). Chaque feature est priorisée par fréquence, tendance, sévérité et impact deal (€ de pipeline, deals perdus), avec verbatims et lien Eagr vers l'appel. Nécessite un insight « feedback produit » configuré dans Eagr ; sinon explique comment le créer. Utilise cette skill dès qu'une équipe produit veut prioriser son backlog depuis la voix du client, savoir quelle feature manquante coûte des deals, ou ce que les prospects adorent, même sans dire « features ». Commandes : `install voix client` configure ; `voix client [période]` (ou `features`) génère.
 ---
 
 # Voix du client · feedback produit
@@ -49,7 +49,7 @@ Période commencée avant la couverture de l'insight → dis-le en tête du brie
 4. **Classer** : fusionne les noms proches (« export Excel » = « export xls »). Un seul angle par
    retour : le `type` de l'insight, sinon ta classification marquée `[classé par Claude]`. Par feature :
    fréquence (appels et deals distincts) · tendance ↑ → ↓ · sévérité 🔴 bloquant 🟠 friction 🟢 confort ·
-   qui et segment · € et pertes · concurrent cité · 1-2 verbatims + référence d'appel. Trie par impact.
+   qui et segment · € et pertes · concurrent cité · 1-2 verbatims + lien Eagr (§0). Trie par impact.
 5. **Artefact** (même message, après le texte) : HTML + Chart.js via cdnjs, couleurs en dur, chaque
    graphe en `try/catch`, aucun graphe vide : top manquantes (barres), € par manquante, répartition par
    angle, tendance des 3 principales si historique.

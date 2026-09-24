@@ -97,7 +97,7 @@ semaine**, pour tracer une évolution dès ce run. **Pas de data sur une semaine
   pertinent, vs d'autres équipes comparables de l'org (`compare_users`, **10 utilisateurs maximum par
   appel** : découpe en lots de 10 pour les équipes plus grandes). Toujours afficher la base (qui/combien).
 - **Transcripts** : 1-2 extraits qui **illustrent l'axe collectif** (idéalement chez 2 personnes
-  différentes pour montrer que c'est un pattern d'équipe, pas un cas isolé), avec la référence de l'appel (lien seulement si Eagr fournit une URL, §0).
+  différentes pour montrer que c'est un pattern d'équipe, pas un cas isolé), avec le lien Eagr de l'appel (§0).
 - **CRM, agrégé par propriétaire** : l'activité des deals de l'équipe sur la période, lue et calculée
   **selon la config du manager** (indicateurs choisis, étapes mappées). Cartes agrégées **et** ventilation
   par personne. ⚠️ **Appels passés ≠ appels analysés** : le volume d'appels passés vient des **logs du
