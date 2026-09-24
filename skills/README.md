@@ -8,7 +8,7 @@
 | `coaching-user` | Manager | `coaching [nom]` | manager | Eagr, CRM |
 | `coaching-team` | Manager | `coaching équipe [équipe]` | manager | Eagr, CRM |
 
-`install eagr` règle le profil partagé (entreprise, offre, ton, CRM) une seule fois pour toutes les skills.
+`install eagr` règle le profil partagé (entreprise, offre, ton, CRM) une seule fois pour toutes les skills (commande portée par `prep-rdv`, qui doit donc être installée).
 `coaching-team` et `coaching-user` se livrent **ensemble**.
 
 ## Déployer chez un client
@@ -29,7 +29,7 @@
   peuvent pas lire les appels.
 - Renvoyer une **URL de session** dans les réponses du connecteur (les skills n'affichent un lien que s'il est fourni).
 - Ajouter un outil qui **liste les types d'insights** et **filtre les appels par insight** (aujourd'hui
-  `feature-feedback` échantillonne et lit les appels un par un, plafond de 200).
+  `feature-feedback` échantillonne et lit les appels un par un, plafond de 100).
 - Confirmer la **visibilité par rôle** (un commercial voit-il les appels des deals gagnés de ses collègues ?).
 
 ## Modifier une skill
