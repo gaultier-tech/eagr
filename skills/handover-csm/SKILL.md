@@ -17,12 +17,14 @@ la fiche.** La fiche est écrite **pour le CSM** (« tu reprends ce compte »).
 - **Au démarrage** : `get_me` (échec → « Connecte Eagr : Paramètres → Connecteurs » et stop). Utilise le
   CRM **réellement branché** (jamais HubSpot par défaut) ; son `dealProvider` Eagr : `hubspot`,
   `salesforce`, `pipedrive`, `zoho` ou `odoo`. Connecteur optionnel absent → section signalée, pas de blocage.
+- **Toujours `clientId=<clientId de get_me>`** sur les appels `list_*` : sans lui, un compte admin
+  reçoit une liste vide ou les données d'autres organisations.
 - **Appels d'un deal** : `list_real_case_sessions(dealProvider, dealExternalId=<id CRM du deal>)` +
   `list_real_case_sessions(prospectEmail)` par contact ; dédoublonne par `rcs_…` ; une session live
   coach dont le `realCaseSessionId` est déjà listé = même appel. Lis en parallèle avec
   `include=["callInsights","results"]` ; `transcript` seulement pour 1-2 citations.
-- **`data: []` avec `hasMore: true`** = anomalie, pas « aucun appel » : réessaie une fois sur une
-  période plus courte, sinon dis que la lecture a échoué. Appels visibles au CRM mais absents d'Eagr →
+- **`data: []` avec `hasMore: true`** = anomalie, pas « aucun appel » : vérifie le `clientId`, réessaie
+  une fois sur une période plus courte, sinon dis que la lecture a échoué. Appels visibles au CRM mais absents d'Eagr →
   « ton rôle Eagr n'y a peut-être pas accès ».
 - **Liens d'appel** : `rcs_<uuid>` → `https://app.eagr.ai/v2/call-reviews/<uuid>` (id sans le préfixe
   `rcs_`). Session live coach → lien de son `realCaseSessionId` ; sans lui, pas de lien. Format :

@@ -14,7 +14,7 @@
 ## Déployer chez un client
 
 1. **Admin claude.ai du client** : ajouter le connecteur **Eagr** au niveau de l'organisation, provisionner
-   les 5 fichiers `dist/*.skill`, et vérifier que l'**exécution de code** et la **recherche web** sont activées.
+   les 5 fichiers `.skill`, et vérifier que l'**exécution de code** et la **recherche web** sont activées.
 2. **Chaque utilisateur** : Paramètres → Connecteurs → connecter Eagr (son propre compte), son CRM, Gmail /
    Calendar / Slack selon la skill. Activer la **mémoire** si possible (sinon les skills affichent un bloc
    de config et un bloc-journal à recoller).
@@ -24,9 +24,5 @@
 
 ## Côté Eagr
 
-Voir `../download/RECAP-EQUIPE-TECH.md`.
+Voir `RECAP-EQUIPE-TECH.md`.
 
-## Modifier une skill
-
-Éditer `<skill>/SKILL.src.md` (et `_socle.md` pour les règles communes), puis `python3 build.py` : régénère
-`<skill>/SKILL.md` et `dist/<skill>.skill`, et vérifie le nom et la longueur de la description (≤ 1024).

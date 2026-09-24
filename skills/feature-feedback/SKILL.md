@@ -17,12 +17,14 @@ partir de l'insight Eagr uniquement**, jamais de ton intuition.
 - **Au démarrage** : `get_me` (échec → « Connecte Eagr : Paramètres → Connecteurs » et stop). Utilise le
   CRM **réellement branché** (jamais HubSpot par défaut) ; son `dealProvider` Eagr : `hubspot`,
   `salesforce`, `pipedrive`, `zoho` ou `odoo`. Connecteur optionnel absent → section signalée, pas de blocage.
+- **Toujours `clientId=<clientId de get_me>`** sur les appels `list_*` : sans lui, un compte admin
+  reçoit une liste vide ou les données d'autres organisations.
 - **Appels d'un deal** : `list_real_case_sessions(dealProvider, dealExternalId=<id CRM du deal>)` +
   `list_real_case_sessions(prospectEmail)` par contact ; dédoublonne par `rcs_…` ; une session live
   coach dont le `realCaseSessionId` est déjà listé = même appel. Lis en parallèle avec
   `include=["callInsights","results"]` ; `transcript` seulement pour 1-2 citations.
-- **`data: []` avec `hasMore: true`** = anomalie, pas « aucun appel » : réessaie une fois sur une
-  période plus courte, sinon dis que la lecture a échoué. Appels visibles au CRM mais absents d'Eagr →
+- **`data: []` avec `hasMore: true`** = anomalie, pas « aucun appel » : vérifie le `clientId`, réessaie
+  une fois sur une période plus courte, sinon dis que la lecture a échoué. Appels visibles au CRM mais absents d'Eagr →
   « ton rôle Eagr n'y a peut-être pas accès ».
 - **Liens d'appel** : `rcs_<uuid>` → `https://app.eagr.ai/v2/call-reviews/<uuid>` (id sans le préfixe
   `rcs_`). Session live coach → lien de son `realCaseSessionId` ; sans lui, pas de lien. Format :
@@ -35,23 +37,29 @@ partir de l'insight Eagr uniquement**, jamais de ton intuition.
 ## Pré-requis · l'insight « Feedback produit »
 Introuvable → affiche ce message et **arrête-toi** :
 
-> **Il faut d'abord un insight « Feedback produit » dans Eagr** (créé une fois par un admin Eagr).
-> Consigne : « Relève chaque fois que l'interlocuteur réclame une fonctionnalité absente, se plaint
-> d'une limite sur une existante, ou en salue une. » Champs : `type` (manquante / à améliorer /
-> aimée) · `feature` · `verbatim` · `concurrent`.
-> Il ne s'applique qu'aux appels analysés après sa création : demande à Eagr si les anciens peuvent
-> être réanalysés.
+> **Il faut d'abord des champs « feedback produit » dans ton template d'insights Eagr** (un admin
+> Eagr les ajoute une fois). Trois champs, un par angle :
+> - **Missing Features** : « fonctionnalités réclamées qui n'existent pas »
+> - **Feature to improve** : « limites ou frictions sur une fonctionnalité existante »
+> - **Features loved** : « fonctionnalités saluées spontanément »
+> Consigne de format pour chacun : « une ligne par fonctionnalité : nom court, puis la citation exacte ;
+> laisse vide si rien n'est dit ».
+> Ils ne s'appliquent qu'aux appels analysés après leur création : demande à Eagr si les anciens
+> peuvent être réanalysés.
 
 ## MODE 1 · Setup (`install voix client`, ou au premier lancement)
 ⛔ Pas d'analyse sans config confirmée : affiche la checklist et **attends la réponse**.
 1. Rôle `user` → préviens : « tu ne verras que tes propres appels ; il faut manager ou plus ».
-2. **Trouver l'insight** (aucun outil ne liste les insights) : lis les `callInsights` des **50
-   derniers appels analysés**, en parallèle ; liste les types d'insights vus et leur fréquence.
-   Un type ressemble à du feedback produit → propose-le. Aucun → demande « Comment s'appelle
-   l'insight feedback produit dans Eagr ? » ; pas de réponse ou n'existe pas → Pré-requis, stop.
-   Note la date du plus ancien appel qui le porte (début de couverture).
+2. **Trouver les champs** (aucun outil ne les liste) : lis les `callInsights` des **50 derniers
+   appels analysés**, en parallèle. Un insight de template se repère par `metadata.fieldName` (son
+   `type` est un identifiant, pas un nom). Liste les `fieldName` vus et leur fréquence, et propose
+   ceux qui correspondent à chaque angle (ex. « Missing Features » → manquantes, « Feature to
+   improve » → à améliorer). Aucun → demande « Comment s'appellent les champs feedback produit dans
+   ton template Eagr ? » ; pas de réponse ou n'existent pas → Pré-requis, stop. Un angle sans champ
+   (souvent « aimées ») → dis-le et propose d'ajouter le champ. Note la date du plus ancien appel qui
+   porte ces champs (début de couverture).
 
-> **Insight** ☑ _[détecté]_ (vu dans N appels sur 50, depuis le [date]) · **Période** ☑ 30 j ☐ 7 j
+> **Champs** : manquantes ☑ _[fieldName]_ · à améliorer ☑ _[fieldName]_ · aimées ☑ _[fieldName ou « aucun »]_ (vus dans N appels sur 50, depuis le [date]) · **Période** ☑ 30 j ☐ 7 j
 > ☐ trimestre · **Périmètre** ☑ toute l'org ☐ une équipe · **Seuil** ☑ ≥ 2 appels distincts
 > (en dessous : signaux faibles) · **Impact CRM** ☑ oui _(seulement si un CRM est branché)_
 
@@ -63,12 +71,13 @@ Période commencée avant la couverture de l'insight → dis-le en tête du brie
 
 1. **Historique** : journal voix client → tendance ; sinon « première période, pas de tendance ».
 2. **Appels** : `list_real_case_sessions(dateFrom, dateTo, category=analyzed)` ; **100 max** (les plus
-   récents ; « 100 lus sur N » au-delà). `callInsights` par lots parallèles de 10 ; garde l'insight
-   configuré. Zéro retour → vérifie la couverture avant de conclure, et dis ce que tu as constaté.
+   récents ; « 100 lus sur N » au-delà). `callInsights` par lots parallèles de 10 ; garde les champs
+   configurés (par `metadata.fieldName`). **Ignore** un contenu vide ou qui dit qu'il n'y a rien
+   (« ne mentionne pas de fonctionnalité… ») : ce n'est pas un feedback. Verbatim : `metadata.citation`. Zéro retour → vérifie la couverture avant de conclure, et dis ce que tu as constaté.
 3. **CRM** (si activé) : par feature, € de pipeline ouvert et deals perdus ou reportés des appels
    concernés ; dis combien d'appels n'ont pas de deal rattaché.
-4. **Classer** : fusionne les noms proches (« export Excel » = « export xls »). Un seul angle par
-   retour : le `type` de l'insight, sinon ta classification marquée `[classé par Claude]`. Par feature :
+4. **Classer** : fusionne les noms proches (« export Excel » = « export xls »). Angle = celui du champ
+   d'origine ; un retour mal rangé (une louange dans « Feature to improve ») → reclasse-le et marque `[reclassé par Claude]`. Par feature :
    fréquence (appels et deals distincts) · tendance ↑ → ↓ · sévérité 🔴 bloquant 🟠 friction 🟢 confort ·
    qui et segment · € et pertes · concurrent cité · 1-2 verbatims + lien Eagr (§0). Trie par impact.
 5. **Artefact** (même message, après le texte) : HTML + Chart.js via cdnjs, couleurs en dur, chaque
