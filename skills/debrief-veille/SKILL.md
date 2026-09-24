@@ -23,6 +23,22 @@ playbook, interlocuteurs, deal lié, **lien du call**), **CRM** (optionnel : ét
 ---
 
 ## MODE 1 — Setup (une fois)
+
+> 🖱️ **Poser les choix avec de vrais boutons.** Si l'app met à ta disposition un outil de questions à
+> choix cliquables (ex. `ask_user_input`), fais TOUTE cette configuration avec lui plutôt qu'en checklist texte :
+> - **Pré-remplis d'abord** : nom de l'entreprise depuis Eagr (`get_my_client`), CRM détecté, équipes,
+>   insights, étapes. Profil commun déjà enregistré par une autre skill Eagr (entreprise, ton, CRM) → ne le redemande pas.
+> - **Une question par ligne** de la checklist ci-dessous, **3 questions maximum par tour** ; enchaîne les tours
+>   jusqu'au bout, les réglages les plus structurants d'abord.
+> - **2 à 4 options courtes** par question ; le choix par défaut (☑) ou la valeur détectée en premier, suivi de « (recommandé) ».
+> - Plusieurs cases possibles (sections, blocs, indicateurs, rubriques) → **question à choix multiples**.
+> - Ce qui doit être tapé (nom, URL, canal Slack, grille tarifaire…) : **une seule question en texte**, à la fin,
+>   qui regroupe tous les champs libres restants.
+> - Termine par un **récapitulatif** de 5 lignes maximum et une dernière question à boutons : **Valider** / **Modifier**.
+>
+> **Pas d'outil à boutons** → affiche la checklist en texte, et termine toujours par : « Les cases ne sont pas
+> cliquables : réponds **ok** pour valider tel quel, ou écris ce que tu veux changer (ex. : "Slack #sales-daily,
+> sans le bloc X"). »
 ⛔ Tant que la config n'est pas **confirmée**, ne produis aucun débrief : affiche la checklist et **attends la réponse**.
 
 D'abord, **lis les `callInsights` d'une dizaine d'appels récents** pour lister les insights que ce client a

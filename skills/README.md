@@ -13,6 +13,11 @@ commande génère le livrable.
 | [risque-deals](risque-deals/SKILL.md) | Manager, dirigeant commercial, commercial | `install risques` | `risques` | Radar quotidien des deals en danger : score expliqué, preuve, une action nommée |
 | [objections](objections/SKILL.md) | Manager, enablement | `install objections` | `objections [période]` | Tableau de bord des objections + meilleures réponses réelles de l'équipe |
 | [deck-prospect](deck-prospect/SKILL.md) | Commercial | `install deck` | `deck [société]` | Deck de suivi sur mesure (.pptx / Google Slides) + questions pour le prochain RDV |
+| [prep-rdv](prep-rdv/SKILL.md) | Commercial | `install RDV` | `prépa RDV [email]` | Préparation du prochain rendez-vous |
+| [coaching-user](coaching-user/SKILL.md) | Manager | `install coaching` | `coaching [nom]` | Préparation du 1:1 d'un commercial |
+| [coaching-team](coaching-team/SKILL.md) | Manager | `install coaching équipe` | `coaching équipe [équipe]` | Préparation du coaching collectif |
+| [handover-csm](handover-csm/SKILL.md) | CSM | `install handover` | `handover [email]` | Fiche de reprise d'un compte signé |
+| [feature-feedback](feature-feedback/SKILL.md) | Produit | `install features` | `features [période]` | Voix du client pour le produit |
 
 ## Principes communs
 - **Insights Eagr libres** : chaque client configure les siens. Au setup, la skill lit les `callInsights`
@@ -22,4 +27,6 @@ commande génère le livrable.
 - **Rien d'inventé** : pas de citation, pas de chiffre sans source ; une donnée manque → on l'écrit.
 - **Aucune écriture sans accord** : création d'entraînement, affectation, envoi Slack / email.
 - **Planification** : les crons sont en UTC — 9h à Paris = 7h UTC en été, 8h UTC en hiver.
-- Skills voisines : `feature-feedback`, `handover-csm`, `coaching-user`, `prep-rdv`, `compte-rendu-eagr`.
+- **Configuration à boutons** : quand l'app Claude propose des questions à choix cliquables, chaque skill
+  pose ses réglages avec ; sinon, checklist en texte à valider par « ok ».
+- Skills internes non distribuées : `compte-rendu-eagr`, `playbook-creation-v2`.
