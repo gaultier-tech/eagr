@@ -1,0 +1,13 @@
+{
+  "name": "eagr-framer-localization",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dry-run": "node apply-en.mjs",
+    "apply": "node apply-en.mjs --apply",
+    "apply-and-publish": "node apply-en.mjs --apply --publish"
+  },
+  "dependencies": {
+    "framer-api": "5.1.0"
+  }
+}

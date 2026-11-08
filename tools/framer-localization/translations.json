@@ -1,0 +1,4832 @@
+{
+ "pairs": [
+  {
+   "fr": "Produit",
+   "en": "Product",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Nos fonctionnalités",
+   "en": "Features",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Live coach",
+   "en": "Live Coach",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Suggestion en 3 secondes pendant l’appel",
+   "en": "The right answer in 3 seconds, mid-call",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Dashboard manager",
+   "en": "Manager Cockpit",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Vision équipe complète.",
+   "en": "Your whole team at a glance",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Coaching post-rdv",
+   "en": "Post-call Coaching",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Score, axes d’amélioration, plan d’action personnalisé",
+   "en": "A score, focus areas and a next step after every call",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Score, axes d’amélioration, plan d’action",
+   "en": "Score, focus areas, next step",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Role Play IA",
+   "en": "AI Roleplay",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Méthodo, objections et scripts intégrés",
+   "en": "Practice your playbook against AI buyers",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Connexion universelle à votre stack",
+   "en": "Your call data in Claude, ChatGPT and Gemini",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Intégrations",
+   "en": "Integrations",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Connexion à vos outils",
+   "en": "Works with your CRM, dialer and video tools",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Nouveautés : le live coach",
+   "en": "New: Live Coach",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pour qui ?",
+   "en": "Who it's for",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Par rôle",
+   "en": "By role",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Directeurs commerciaux",
+   "en": "Sales leaders",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Commerciaux",
+   "en": "Account executives",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "RevOps",
+   "en": "RevOps",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Tarifs",
+   "en": "Pricing",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Ressources",
+   "en": "Resources",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Use Case",
+   "en": "Customer stories",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "+20% d’application du Playbook en 3 mois",
+   "en": "+20% playbook adherence in 3 months",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Se connecter",
+   "en": "Log in",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Bouton de nav (« Book an appointment » en EN aujourd'hui)",
+   "en": "Book a demo",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Ils nous font confiance",
+   "en": "Trusted by",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Le co-pilot commercial en temps réel. Coaching pendant l’appel, pas après.",
+   "en": "Every call coached. During the call, not after.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Produits",
+   "en": "Product",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Cas clients",
+   "en": "Customer stories",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "L'équipe",
+   "en": "Team",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Legal",
+   "en": "Legal",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Mentions légales",
+   "en": "Legal notice",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Politique de confidentialité",
+   "en": "Privacy policy",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "CGV",
+   "en": "Terms of sale",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "CGU",
+   "en": "Terms of use",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Gérer les cookies",
+   "en": "Cookie settings",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Compatible avec vos outils",
+   "en": "Works with your stack",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Setup 48h",
+   "en": "Live in 48 hours",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Sans engagement",
+   "en": "No contract",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Conformité RGPD",
+   "en": "GDPR compliant",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Réserver une démo",
+   "en": "Book a demo",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Voir une démo",
+   "en": "See it live",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "En savoir plus",
+   "en": "Learn more",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Voyez Eagr coacher un appel en direct.",
+   "en": "Watch Eagr coach a live call.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "30 minutes pour voir Eagr sur vos calls.",
+   "en": "See Eagr on your own calls in 30 minutes.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "30 minutes",
+   "en": "30 minutes",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Questions fréquentes",
+   "en": "Frequently asked questions",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Comment ça marche ?",
+   "en": "How it works",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Voir les intégrations",
+   "en": "See integrations (lien → /en/features/integrations, il pointe aujourd'hui vers Live Coach)",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Leur problème. Eagr l'a résolu. Voilà les chiffres.",
+   "en": "Real teams. Real calls. In their words.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Tous les use cases",
+   "en": "All customer stories",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Voir le use case",
+   "en": "Read the story",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "« Là, avec la synthèse, on va droit au but. […] Ça crée une boucle super vertueuse. »",
+   "en": "“With the summary, we get straight to the point: scores, focus areas, missed signals. The team now actually wants to know how to get better. It’s a virtuous circle.”",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Victor de Broca, VP Sales de Beev",
+   "en": "Victor de Broca, VP of Sales, Beev",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "« Même sans regarder le call en entier, […] dans la bonne direction. »",
+   "en": "“Even without watching the whole call, we get the key points: what was said, and how the rep handled it. We know the whole team is moving in the right direction.”",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "JC, COO Visibrain",
+   "en": "Jean-Christophe, COO, Visibrain",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "« On a divisé par trois le temps passé en revue d'appels, […] la semaine suivante. »",
+   "en": "“We cut the time we spend reviewing calls by two-thirds, and we see much more precisely what to fix the following week.”",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Damien Smagghe, Maestro Media",
+   "en": "Damien Smagghe, CEO, Maestro Media",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "\"Comme avoir un CRM est indispensable […] est devenu incontournable.\"",
+   "en": "“No sales team runs without a CRM. A tool like Eagr has become just as essential.”",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "\"On a arrêté de courir après les commerciaux […] plus fiable qu'avant.\"",
+   "en": "“We stopped chasing reps to update the CRM. Now it fills itself, and it’s more accurate than before.”",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "\"Avant, je restais bloqué en plein silence sur une objection. […] en 3 secondes.\"",
+   "en": "“I used to freeze when an objection hit. Now the right question is on my screen in 3 seconds.”",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Account executive",
+   "en": "Account Executive",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Découvrez tout ce qu'Eagr peut faire pour votre équipe.",
+   "en": "See everything Eagr can do for your team.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "votre équipe",
+   "en": "your team",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Vos commerciaux coachés en live, sur chaque appel",
+   "en": "Every rep coached live, on every call",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr guide vos sales en temps réel, les aide à appliquer le Playbook, à poser les bonnes questions et à traiter toutes les objections.",
+   "en": "Eagr guides your reps in real time to follow the playbook, ask the right questions and handle every objection.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pour savoir qui coacher sur quoi, sans écouter un seul appel",
+   "en": "Know who to coach on what, without listening to a single call",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Chaque deal reçoit un score de santé basé sur les vrais signaux de l'appel. Vous voyez tout de suite où concentrer votre énergie cette semaine.",
+   "en": "Every deal gets a health score based on real signals from the call. You see right away where to focus this week.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pour s'entraîner sur l'appel difficile avant le vrai rendez-vous",
+   "en": "Rehearse the hard call before the real one",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Vos commerciaux s’exercent face à un prospect IA qui objecte comme vos vrais clients, avant de décrocher pour de bon.",
+   "en": "Reps practice against an AI buyer who pushes back like your real customers, before the call that counts.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pour connecter vos données commerciales à votre stack IA",
+   "en": "Plug your sales data into your AI stack",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Exposez les données Eagr directement dans Claude, ChatGPT ou votre outil interne via le protocole MCP, sans développement custom.",
+   "en": "Bring Eagr data straight into Claude, ChatGPT or your internal tools over MCP, with no custom development. We even ship a ready-made skills library.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "De l'écoute à la suggestion. En 3 secondes",
+   "en": "From listening to suggestion in 3 seconds",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "3 secondes",
+   "en": "3 seconds",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr écoute l'appel en temps réel",
+   "en": "Eagr listens in real time",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Dès que l'appel commence, Eagr transcrit et analyse la conversation. En continu. Discret, invisible pour le prospect.",
+   "en": "As soon as the call starts, Eagr transcribes and analyzes the conversation, continuously. The prospect never sees it.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Détection du signal critique",
+   "en": "It catches the signal that matters",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Objection, concurrent évoqué, signal d'achat ignoré, moment de closing raté. Eagr identifie le type exact et son niveau de confiance.",
+   "en": "An objection, a competitor mention, an ignored buying signal, a missed chance to close. Eagr identifies the exact type and how confident it is.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Suggestion calibrée depuis votre playbook",
+   "en": "It suggests your playbook’s answer",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pas une réponse générique. Une suggestion construite depuis votre playbook, enrichie par les deals gagnés de votre équipe.",
+   "en": "Not a generic answer: a suggestion built from your playbook and your team’s won deals.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Le commercial applique ou adapte",
+   "en": "The rep stays in control",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Il voit la suggestion dans son interface. Il peut l'appliquer telle quelle, demander une alternative ou l'ignorer. Il reste maître de l'appel.",
+   "en": "The rep sees the suggestion on screen and can use it as is, ask for another option, or ignore it. They stay in charge of the call.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr s'intègre à votre stack. Sans migration, sans friction.",
+   "en": "Eagr plugs into your stack. No migration, no friction.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr alimente votre stack IA via MCP",
+   "en": "Eagr feeds your AI stack over MCP",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Chaque appel commercial analysé devient une donnée structurée dans votre MCP. Vos agents IA internes restent à jour automatiquement - sans saisie manuelle, sans workflow à maintenir.",
+   "en": "Every analyzed call becomes structured data available over MCP. Your internal AI agents stay current automatically, with no manual entry and no workflows to maintain.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Data Eagr",
+   "en": "Eagr data",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Calls • Scores • Insights",
+   "en": "inchangés",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Objection détectée",
+   "en": "Objection detected",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "“Le projet est intéressant mais le prix est trop élevé pour ce trimestre”.",
+   "en": "“The project looks interesting, but the price is too high for this quarter.”",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Conseil du coach",
+   "en": "Coach tip",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Signal d’achat détecté",
+   "en": "Buying signal detected",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "“Ça s’intègre avec Salesforce ? On a notre budget Q4 déjà validé pour ça”",
+   "en": "“Does it integrate with Salesforce? Our Q4 budget for this is already approved.”",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Action recommandée",
+   "en": "Recommended action",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Moment de closing manqué",
+   "en": "Missed closing moment",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "“Ça a l’air vraiment bien”. - la démo continue.",
+   "en": "“That looks really good.” — the demo keeps going.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Profils détectés",
+   "en": "Detected profiles",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Étape playbook manquée",
+   "en": "Playbook step missed",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Méthode",
+   "en": "Method",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "découverte",
+   "en": "Discovery",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "«On a déjà essayé un outil similaire, ça n'a pas marché.»",
+   "en": "“We already tried a similar tool. It didn’t work.”",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "À faire :",
+   "en": "Next step:",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Qu'est-ce que le coaching commercial par IA ?",
+   "en": "What is AI sales coaching?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Le coaching commercial par IA analyse les vraies conversations de vente […] qui installe des réflexes durables.",
+   "en": "AI sales coaching analyzes your real sales conversations and gives every rep personalized feedback, automatically, after every call. Instead of waiting for an occasional debrief with their manager, each rep gets continuous, data-driven coaching that builds lasting habits.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "En quoi le coaching IA se distingue-t-il de la conversation intelligence ?",
+   "en": "How is AI coaching different from conversation intelligence?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Les outils de conversation intelligence sont descriptifs […] il analyse et il agit.",
+   "en": "Conversation intelligence tools are descriptive: they tell you what happened. AI coaching is prescriptive: it tells reps what to do differently and lets them practice before the next call. Eagr does both. It analyzes, then it acts.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Le Live Coach est-il source de distraction ?",
+   "en": "Will Live Coach distract my reps?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Il est conçu pour ne pas l’être. […] pas une machine à pop-ups.",
+   "en": "It’s built not to. Live Coach only shows suggestions that matter, short and in context, and stays collapsed until it’s needed. A discreet copilot, not a pop-up machine.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Qu'est-ce qu'un playbook dynamique ?",
+   "en": "What is a dynamic playbook?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Un playbook dynamique évolue automatiquement […] exercices de coaching ciblés.",
+   "en": "A dynamic playbook evolves with what actually works on your team’s calls. Instead of a static doc nobody reads, Eagr spots winning behaviors, formalizes them and rolls them out to the whole team: Live Coach suggestions during calls, structured analysis after every call, and targeted coaching exercises.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "En combien de temps peut-on démarrer ?",
+   "en": "How fast can we get started?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Le Live Coach fonctionne en quelques minutes […] sans aucun travail manuel.",
+   "en": "Live Coach works in minutes: the rep installs the app, starts a call and gets real-time coaching right away. Setup on your side takes about 5 minutes. By the end of week one, you see every call your team makes. After a month, Eagr delivers a complete playbook built from your team’s real conversations, with no manual work.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Et si nous n'avons pas de playbook ?",
+   "en": "What if we don’t have a playbook?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr en construit un à partir des vrais appels de votre équipe […] évoluer automatiquement.",
+   "en": "Eagr builds one from your team’s real calls, based on what top performers actually do, not gut feel. After a month of calls, you get a structured playbook that keeps evolving on its own.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Est-ce que ça fonctionne pour les équipes non anglophones ?",
+   "en": "Does it work in other languages?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Oui. Eagr prend en charge 8 langues, et l’IA analyse chaque conversation dans sa langue d’origine.",
+   "en": "Yes. Eagr supports 8 languages and analyzes every conversation in its original language.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Les commerciaux voient-ils les données des autres ?",
+   "en": "Can reps see each other’s data?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Non. Chaque commercial ne voit que ses propres performances. […] gérés par rôle.",
+   "en": "No. Each rep only sees their own performance. Managers see individual and team-level data for their team. Access is role-based.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Mes données sont-elles sécurisées ?",
+   "en": "Is my data secure?",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Oui. Eagr est conforme au RGPD et à l’AI Act européen. Toutes les données sont chiffrées et hébergées dans l’Union européenne.",
+   "en": "Yes. Eagr is GDPR and EU AI Act compliant. All data is encrypted and hosted in the EU.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Si toi aussi tu aimes les 🍪, clique ici !",
+   "en": "We use cookies 🍪",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Promis, on ne fera pas de relance industrielle : c'est juste pour améliorer notre site. En savoir plus.",
+   "en": "Only to improve the site, never to spam you. Learn more.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Nécessaires",
+   "en": "Necessary",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Indispensables au fonctionnement du site. Toujours actifs.",
+   "en": "Required for the site to work. Always on.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Préférences",
+   "en": "Preferences",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Mémorisent tes choix (langue, etc.).",
+   "en": "Remember your choices, like language.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Statistiques",
+   "en": "Analytics",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Nous aident à comprendre l'usage du site (anonymisé).",
+   "en": "Help us understand how the site is used (anonymized).",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Marketing",
+   "en": "Marketing",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Personnalisent les contenus et publicités.",
+   "en": "Personalize content and ads.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Tout accepter",
+   "en": "Accept all",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Refuser",
+   "en": "Decline",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Personnaliser",
+   "en": "Customize",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Enregistrer mes choix",
+   "en": "Save my choices",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "+60 équipes",
+   "en": "60+",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "ont rejoint Eagr ce semestre",
+   "en": "sales teams coached by Eagr",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Personne ne peut coacher ses sales sur 100% de leurs rendez-vous. Eagr si",
+   "en": "No manager can coach every call. Eagr does.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Eagr si",
+   "en": "Eagr does.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Eagr analyse tous les rendez-vous et coache vos commerciaux en live, pendant qu’il est encore temps d’agir. Chaque lundi, il vous dit qui accompagner et sur quoi en priorité.",
+   "en": "Eagr analyzes every call and coaches your reps live, while the deal is still in play. Every Monday, it tells you who to coach and on what.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Voir un appel analysé",
+   "en": "See an analyzed call",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Tout ce dont votre équipe a besoin pour closer plus",
+   "en": "Everything your team needs to close more",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "closer plus",
+   "en": "close more",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Coaching post rendez-vous",
+   "en": "Post-call Coaching",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Pour faire progresser vos commerciaux entre chaque RDV",
+   "en": "Help reps improve between every call",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Cockpit manager",
+   "en": "Manager Cockpit",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Qui coacher, qui stagne, qui progresse. Vision complète de l’équipe sans écouter un seul call",
+   "en": "Who to coach, who’s stalling, who’s improving. Your whole team, without listening to a single call",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Roleplay IA",
+   "en": "AI Roleplay",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Pour construire tous vos workflows depuis votre LLM préféré",
+   "en": "Build any workflow from your favorite LLM",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Le coaching qui manquait à votre équipe. Automatisé.",
+   "en": "The coaching your team was missing. Automated.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Chaque call analysé. Chaque commercial coaché. Chaque manager informé.",
+   "en": "Every call analyzed. Every rep coached. Every manager in the loop.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "+18%",
+   "en": "+18%",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "de taux de conversion chez Alegria avec le Live Coach.",
+   "en": "conversion rate at Alegria with Live Coach.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "2x",
+   "en": "5x",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "plus vite. Le ramp-up de vos nouvelles recrues pour atteindre leur quota. Sans formation supplémentaire.",
+   "en": "conversion rate in 4 months at Onepilot.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "-40%",
+   "en": "+20%",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "de temps manager consacré aux débriefs et à l’écoute de calls. Votre agenda, enfin libéré.",
+   "en": "vs. a control group at MGEN, in insurance sales.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "100%",
+   "en": "100%",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "des calls analysés. Aucun commercial livré à lui-même après un appel. Aucun angle mort dans l’équipe.",
+   "en": "of calls analyzed. No rep left on their own after a call. No blind spots on the team.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "+25%",
+   "en": "200,000+",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "d’application de la méthode de vente",
+   "en": "sales calls analyzed to date",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Pas qu'un outil de coaching. Une réponse pour chaque rôle.",
+   "en": "More than a coaching tool. Built for every role.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "chaque rôle",
+   "en": "every role",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Directeur commercial",
+   "en": "Sales leader",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Vous voyez enfin ce qui se joue en rendez-vous. Chaque call est analysé, chaque objection remontée. Vous pilotez sur des faits, plus sur des ressentis.",
+   "en": "You finally see what really happens on your calls. Every call analyzed, every objection surfaced. You manage on facts, not gut feel.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Commercial B2B",
+   "en": "Account executive",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Un coach en direct pendant l'appel, puis un débrief immédiat. Vous progressez sur vos propres rendez-vous, sans attendre la revue mensuelle.",
+   "en": "A live coach during the call, then an instant debrief. You get better on your own calls, without waiting for the monthly review.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "CEO & Ops",
+   "en": "CEO & RevOps",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Eagr se branche sur votre stack via MCP. Chaque call nourrit votre pipeline. Vos données commerciales deviennent un actif stratégique en temps réel.",
+   "en": "Eagr plugs into your stack over MCP. Every call feeds your pipeline data. Your sales conversations become a strategic asset, in real time.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Ce qui a changé : Eagr.",
+   "en": "What changed: Eagr.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Avant ils étaient seuls.",
+   "en": "Before, they were on their own.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "Aujourd'hui, ils ont Eagr.",
+   "en": "Now they have Eagr.",
+   "kind": "exact",
+   "scope": "/"
+  },
+  {
+   "fr": "La bonne réponse. En 3 secondes. Pendant l’appel",
+   "en": "The right answer. In 3 seconds. During the call.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Pendant l’appel",
+   "en": "During the call.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Eagr écoute chaque conversation, détecte les signaux critiques et envoie la suggestion au commercial avant qu’il soit trop tard. Discret pour lui. Invisible pour le prospect.",
+   "en": "Eagr listens to every conversation, catches the signals that matter and shows your rep a suggestion before it’s too late. Discreet for the rep. Invisible to the prospect.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Sans coaching pendant l'appel, vos commerciaux improvisent.",
+   "en": "Without coaching during the call, your reps improvise.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "improvisent",
+   "en": "improvise",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Ils ont été formés. Ils connaissent le playbook. Mais sous pression, face à une objection qu'ils n'anticipaient pas, ils improvisent, et perdent des deals.",
+   "en": "They’ve been trained. They know the playbook. But under pressure, facing an objection they didn’t see coming, they improvise, and they lose deals.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Deal bloqué chez le mauvais interlocuteur",
+   "en": "Deal stuck with the wrong contact",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "\"Il faut que j'en parle à Michel.\"",
+   "en": "“I need to run this by my CFO.”",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Votre commercial ne détecte pas que Michel n'a jamais été mentionné avant. […] le vrai circuit de décision.",
+   "en": "Your rep misses that the CFO has never come up before. They keep pitching as if this contact decides alone, without mapping the real buying process.",
+   "kind": "pattern",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Deal perdu faute d'argumentaire compétitif",
+   "en": "Deal lost on competitive positioning",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "\"On regarde aussi votre concurrent X.\"",
+   "en": "“We’re also looking at Competitor X.”",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Votre commercial connaît 2 différenciants. Il en oublie 3. […] une semaine plus tard.",
+   "en": "Your rep remembers 2 differentiators and forgets 3. The prospect never hears the right arguments and picks the competitor a week later.",
+   "kind": "pattern",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Deal classé \"pas maintenant\" et oublié",
+   "en": "Deal parked as “not now” and forgotten",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "\"En ce moment les budgets sont contraints.\"",
+   "en": "“Budgets are tight right now.”",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Votre commercial l'entend comme un refus et recule. […] remettre le deal en mouvement.",
+   "en": "Your rep hears a no and backs off. They don’t have the answer that reframes it as immediate ROI and gets the deal moving again.",
+   "kind": "pattern",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Le coaching après l'appel ne change rien au deal en cours. […]",
+   "en": "Post-call coaching can’t save the deal you’re on. To save it, you have to step in during the call, while the prospect is still on the line.",
+   "kind": "pattern",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "3 s",
+   "en": "3 s",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "entre l’objection et la suggestion",
+   "en": "from objection to suggestion",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "mot visible par le prospect",
+   "en": "words visible to the prospect",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "des appels couverts, pas un échantillon",
+   "en": "of calls covered, not a sample",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "de taux de conversion chez Alegria",
+   "en": "conversion rate at Alegria",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Ce que le live coach détecte",
+   "en": "What Live Coach catches",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Chaque signal. Chaque opportunité.",
+   "en": "Every signal. Every opportunity.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "opportunité",
+   "en": "opportunity",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Gestion des objections",
+   "en": "Handling objections",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Chaque objection identifiée, catégorisée, traitée avec la réponse optimale issue de votre playbook.",
+   "en": "Every objection identified, categorized and answered with the best response from your playbook.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Objection prix et budget",
+   "en": "Price and budget",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Objection concurrent",
+   "en": "Competitor",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Objection timing",
+   "en": "Timing and priority",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Objection interne (decision maker)",
+   "en": "Internal sign-off (decision-maker)",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Détection des signaux d'achat",
+   "en": "Buying signal detection",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Votre commercial manque les signaux d'achat non-formulés. Eagr les détecte et suggère d'accélérer vers le closing.",
+   "en": "Reps miss buying signals that aren’t said outright. Eagr catches them and prompts the rep to move toward the close.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Questions sur l'implémentation",
+   "en": "Implementation questions",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Évocation du budget disponible",
+   "en": "Budget already available",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Demande de références",
+   "en": "Reference requests",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Moments de closing ratés",
+   "en": "Missed closing moments",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Eagr identifie les moments où le prospect est réceptif et suggère de proposer une étape suivante concrète.",
+   "en": "Eagr spots the moments when the prospect is ready and prompts the rep to propose a concrete next step.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Engagement verbal fort détecté",
+   "en": "Strong verbal commitment",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Fin d'appel sans next step",
+   "en": "Call ending with no next step",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Opportunité de pilote manquée",
+   "en": "Missed pilot opportunity",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Détection de la personnalité (DISC)",
+   "en": "Personality detection (DISC)",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Eagr identifie le style de communication du prospect en temps réel et suggère d'adapter le discours en conséquence.",
+   "en": "Eagr reads the prospect’s communication style in real time and suggests how to adapt the pitch.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Profil Dominant → aller à l'essentiel",
+   "en": "Dominant → get to the point",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Profil Influent → miser sur la vision",
+   "en": "Influential → sell the vision",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Profil Stable → rassurer, prendre le temps",
+   "en": "Steady → reassure, take your time",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Profil Consciencieux → chiffres et preuves",
+   "en": "Conscientious → numbers and proof",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Application de votre méthode de vente",
+   "en": "Following your sales method",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Eagr suit votre playbook étape par étape et alerte dès qu'une étape clé est sautée ou mal exécutée.",
+   "en": "Eagr follows your playbook step by step and flags any key step that’s skipped or poorly executed.",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Qualification incomplète (BANT",
+   "en": "Incomplete qualification (BANT",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "MEDDIC)",
+   "en": "MEDDIC)",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Pitch avant qualification",
+   "en": "Pitching before qualifying",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Étape playbook non respectée",
+   "en": "Playbook step skipped",
+   "kind": "exact",
+   "scope": "/features/live-coach"
+  },
+  {
+   "fr": "Le coaching devient enfin scalable",
+   "en": "Coaching that finally scales",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "scalable",
+   "en": "scales",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Eagr analyse automatiquement chaque appel de votre équipe. […] sans lire un seul CRM.",
+   "en": "Eagr analyzes every call your team makes. You see where each deal really stands, which reps to coach and where the pipeline is at risk, without digging through the CRM.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Le CRM raconte ce que vos commerciaux veulent bien dire.",
+   "en": "Your CRM only shows what reps choose to log.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Le CRM dit ce que le commercial a voulu noter. […] la flemme et l'optimisme.",
+   "en": "The CRM holds what the rep decided to write down, not what actually happened. You’re managing on data bent by guesswork, shortcuts and optimism.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Forecast faux dès le départ",
+   "en": "Forecast wrong from day one",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "\"Opportunité : qualifiée. Proba : 70%.\"",
+   "en": "“Opportunity: qualified. Probability: 70%.”",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "La réalité : le prospect a évoqué un concurrent, […] pour éviter les questions.",
+   "en": "Reality: the prospect mentioned a competitor, the budget isn’t confirmed and the decision-maker has never been on a call. The rep put 70% to avoid questions.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "95% des appels jamais couverts",
+   "en": "95% of calls never reviewed",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "\"J'écoute 5% des appels de mon équipe.\"",
+   "en": "“I listen to 5% of my team’s calls.”",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vous n'avez pas le temps d'écouter 50 appels par semaine. […] restent invisibles.",
+   "en": "You don’t have time for 50 calls a week. You pick at random, or when someone flags a problem. The real issues stay invisible.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Coaching à l'aveugle",
+   "en": "Coaching blind",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "\"Julien est à 68/100 ce mois-ci.\"",
+   "en": "“Jake is at 68/100 this month.”",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Le chiffre ne dit pas sur quoi Julien bloque. […] coache au hasard.",
+   "en": "That number doesn’t tell you where Jake is stuck. Discovery? Objections? Closing? Without a skill-by-skill breakdown, the manager guesses and coaches at random.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vous ne pouvez pas coacher ce que vous ne voyez pas. […]",
+   "en": "You can’t coach what you can’t see. The problem isn’t your team. It’s that you don’t have the real data to step in at the right moment.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "appels suffisent pour voir les patterns",
+   "en": "calls are enough to see your team’s patterns",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "des appels analysés, pas un échantillon",
+   "en": "of calls analyzed, not a sample",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "+15 pts",
+   "en": "Weekly",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "de progression en moyenne après 8 semaines",
+   "en": "Pulse every Monday: who to coach, and on what",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Une carte de chaleur par compétence",
+   "en": "A heatmap by skill",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Toute l'équipe, chaque skill, en un coup d'oeil. […] compétence par compétence.",
+   "en": "The whole team, every skill, at a glance. See who’s solid and who’s slipping, skill by skill.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Score séparé par compétence, pas un score global",
+   "en": "A score per skill, not one overall number",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vue équipe complète, mise à jour à chaque appel",
+   "en": "Full team view, updated after every call",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Repérage immédiat des axes en difficulté",
+   "en": "Weak spots flagged instantly",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Historique de progression par compétence",
+   "en": "Progress history by skill",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vue équipe et vue individuelle",
+   "en": "Team view and individual view",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Pour l'atelier collectif comme pour le 1:1. […] d'un seul commercial.",
+   "en": "For team workshops and 1:1s alike. One click from team performance to a single rep’s detail.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vue équipe pour les ateliers et le pilotage global",
+   "en": "Team view for workshops and overall management",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vue individuelle prête pour chaque 1:1",
+   "en": "Individual view, ready for every 1:1",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Comparaison à la moyenne équipe en un clic",
+   "en": "One-click comparison with the team average",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Historique individuel sur plusieurs mois",
+   "en": "Individual history over several months",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vos dashboards en deux clics",
+   "en": "Dashboards in two clicks",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Et l'impact réel de chaque formation. […] ni recomposer une slide.",
+   "en": "Plus the real impact of every training. Share an up-to-date dashboard without exporting a file or rebuilding a slide.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Dashboards prêts à partager, mis à jour en continu",
+   "en": "Ready-to-share dashboards, always up to date",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Impact d'un atelier ou d'une formation mesuré automatiquement",
+   "en": "Training impact measured automatically",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Export rapide pour vos comités et reportings",
+   "en": "Quick export for leadership reviews and reports",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Filtrage par équipe, compétence ou période",
+   "en": "Filter by team, skill or period",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Ce que le cockpit vous donne",
+   "en": "What the Cockpit gives you",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Visibilité. Coaching. Forecast",
+   "en": "Visibility. Coaching. Forecast.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Forecast",
+   "en": "Forecast.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Trois blocs pour piloter votre équipe avec des vraies données, pas des interprétations subjectives.",
+   "en": "Three building blocks to run your team on real data, not subjective takes.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "L'appel se termine",
+   "en": "The call ends",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Eagr reçoit l'enregistrement automatiquement depuis votre téléphonie. […]",
+   "en": "Eagr pulls the recording automatically from your dialer. No manual upload, nothing for the rep to do.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Chaque compétence est notée",
+   "en": "Every skill gets scored",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Transcription, scoring commercial, objections identifiées, signaux acheteur, niveau d'engagement, actions suivantes manquantes.",
+   "en": "Transcript, sales scoring, objections, buyer signals, engagement level, missed next steps.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Cockpit mis à jour en temps réel",
+   "en": "The Cockpit updates in real time",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Chaque deal reçoit un score de santé actualisé. […] Votre forecast devient fiable.",
+   "en": "Every deal gets a fresh health score. Alerts surface automatically. Your forecast becomes reliable.",
+   "kind": "pattern",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Eagr vous dit qui coacher sur quoi",
+   "en": "Eagr tells you who to coach on what",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Pas juste les données. Des recommandations actionnables : \"Brief de 15 min avec Marc sur les objections prix avant son appel jeudi.\"",
+   "en": "Not just data: recommendations you can act on. “15-minute brief with Mark on price objections before his Thursday call.”",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Vos appels entrent. Votre dashboard se met à jour",
+   "en": "Calls come in. Your dashboard stays current.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "à jour",
+   "en": "current",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Recevez votre premier Weekly Pulse dès lundi.",
+   "en": "Get your first Weekly Pulse next Monday.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Weekly pulse : votre rituel du lundi",
+   "en": "Weekly Pulse: your Monday ritual",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Weekly pulse",
+   "en": "Weekly Pulse",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Chaque lundi, recevez le compte rendu de votre équipe",
+   "en": "Every Monday, get your team report",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Un récap prêt, pas une donnée brute",
+   "en": "A ready-made recap, not raw data",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Une conclusion et un plan d’action, pas un tableau à interpréter vous-même.",
+   "en": "A conclusion and an action plan, not a spreadsheet to decode.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Généré automatiquement, chaque lundi",
+   "en": "Generated automatically every Monday",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Sans réécouter un appel ni compiler quoi que ce soit à la main.",
+   "en": "No call replays, no manual compiling.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Un suivi d’une semaine sur l’autre",
+   "en": "Week-over-week follow-up",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "L’objectif fixé le lundi est mesuré au lundi suivant, sans tableur à tenir.",
+   "en": "The goal set on Monday is measured the next Monday, with no spreadsheet to maintain.",
+   "kind": "exact",
+   "scope": "/features/cockpit-manager"
+  },
+  {
+   "fr": "Chaque appel analysé. Un plan d’action livré. Sans y penser",
+   "en": "Every call analyzed. An action plan delivered. Automatically.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Sans y penser",
+   "en": "Automatically.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Dès que l’appel se termine, Eagr livre au commercial son score, ses axes de progression et sa prochaine action. […]",
+   "en": "As soon as the call ends, Eagr gives the rep their score, focus areas and next step. The CRM updates itself: no data entry, no waiting for the next 1:1.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Sans retour après chaque appel, vos commerciaux répètent la même erreur.",
+   "en": "Without feedback after every call, reps repeat the same mistake.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "L'appel vient de se terminer. L'objection est encore fraîche. […] sans rien changer.",
+   "en": "The call just ended. The objection is still fresh. But no one tells the rep what worked and what didn’t, so they move on to the next call without changing a thing.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Deal perdu sans signal d'alarme",
+   "en": "Deal lost with no warning",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "\"Le deal est tombé. Je l'ai su vendredi.\"",
+   "en": "“The deal fell through. I found out on Friday.”",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Un deal à 67K s'effondre en 3 jours. […] Il n'y avait rien dans le CRM.",
+   "en": "A $67K deal collapses in 3 days. The competitor had been coming up for 3 weeks. No one told you. Nothing in the CRM.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Le coaching ponctuel au 1:1 mensuel ne suffit plus. […]",
+   "en": "A monthly 1:1 isn’t enough anymore. To improve, a rep needs feedback after every call, not three weeks later.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Minutes",
+   "en": "Minutes",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "entre la fin de l’appel et le score avec plan d’action",
+   "en": "from hang-up to score and action plan",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "champ CRM à remplir par le commercial",
+   "en": "CRM fields for the rep to fill in",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "des appels analysés",
+   "en": "of calls analyzed",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "axes prioritaires par appel, pas 20 remarques",
+   "en": "priority focus areas per call, not 20 comments",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Score de call et tendance",
+   "en": "Call score and trend",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Chaque appel reçoit un score global et des sous-scores par étape, comparés aux appels précédents du même commercial.",
+   "en": "Every call gets an overall score and stage-by-stage sub-scores, compared with the rep’s previous calls.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Score global par appel",
+   "en": "Overall score per call",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Sous-scores découverte",
+   "en": "Discovery, objection and closing sub-scores",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Comparaison avec les appels précédents",
+   "en": "Comparison with previous calls",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Évolution visible sur plusieurs semaines",
+   "en": "Progress visible over several weeks",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Top 3 axes d'amélioration",
+   "en": "Top 3 focus areas",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Pas 20 remarques noyées dans un rapport. Les 3 axes les plus impactants, illustrés par un extrait exact de l'appel.",
+   "en": "Not 20 comments buried in a report. The 3 that matter most, each backed by an exact excerpt from the call.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Axes identifiés à partir de l'appel réel",
+   "en": "Focus areas drawn from the actual call",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Extrait exact de l'appel pour illustrer",
+   "en": "Exact call excerpt as evidence",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Priorisés du plus au moins impactant",
+   "en": "Ranked by impact",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Mis à jour à chaque nouvel appel",
+   "en": "Updated after every call",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "CRM mis à jour, zéro saisie",
+   "en": "CRM updated, zero data entry",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Le commercial raccroche, le CRM se remplit tout seul. […] sans qu'il ait à taper une ligne.",
+   "en": "The rep hangs up and the CRM fills itself: deal stage, summary and next step, without typing a line.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Étape du deal mise à jour automatiquement",
+   "en": "Deal stage updated automatically",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Prochaine action ajoutée au CRM",
+   "en": "Next step added to the CRM",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Résumé de l'appel généré automatiquement",
+   "en": "Call summary generated automatically",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Zéro saisie manuelle demandée au commercial",
+   "en": "No manual entry for the rep",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Ce que Coaching post-rdv livre",
+   "en": "What Post-call Coaching delivers",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Un score. Un plan. Un CRM à jour",
+   "en": "A score. A plan. An up-to-date CRM.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "à jour",
+   "en": "up-to-date",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Coaching post-rdv ne se contente pas de noter l'appel. Il dit précisément quoi corriger, avec les preuves à l'appui.",
+   "en": "Post-call Coaching doesn’t just grade the call. It tells the rep exactly what to fix, with the evidence.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Eagr récupère l'enregistrement automatiquement depuis votre téléphonie ou votre outil de visio. Aucune action requise du commercial.",
+   "en": "Eagr pulls the recording automatically from your dialer or video tool. Nothing for the rep to do.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Analyse complète en quelques minutes",
+   "en": "Full analysis in minutes",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Transcription, score de call, objections traitées ou manquées, points forts, niveau d'engagement du prospect.",
+   "en": "Transcript, call score, objections handled or missed, strengths, prospect engagement.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Plan d'action personnalisé",
+   "en": "A personal action plan",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Le commercial reçoit ses 3 axes d'amélioration prioritaires et sa prochaine action, illustrés par des extraits exacts de l'appel.",
+   "en": "The rep gets their top 3 focus areas and next step, each illustrated with exact excerpts from the call.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "CRM et manager mis à jour",
+   "en": "CRM and manager updated",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Étape du deal, résumé et prochaine action remontent automatiquement dans le CRM. La tendance du commercial apparaît dans le Dashboard manager.",
+   "en": "Deal stage, summary and next step sync to the CRM automatically. The rep’s trend shows up in the Manager Cockpit.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "De l'appel raccroché au plan d'action livré",
+   "en": "From hang-up to action plan",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "livré",
+   "en": "action plan",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Voyez un compte rendu généré en conditions réelles.",
+   "en": "See a real call report.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Pas qu’un score après l’appel. Un plan pour chaque rôle",
+   "en": "Not just a score after the call. A plan for every role.",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Manager commercial",
+   "en": "Sales manager",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Chaque commercial reçoit son analyse automatiquement. […] sans écouter un seul appel.",
+   "en": "Every rep gets their analysis automatically. You see team-wide trends in the Manager Cockpit, without listening to a single call.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Commercial en onboarding",
+   "en": "New rep in onboarding",
+   "kind": "exact",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Dès le premier call, le nouveau commercial sait exactement ce qui a marché […]",
+   "en": "From the very first call, new reps know exactly what worked and what to fix, without waiting for their first 1:1.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Eagr se branche sur votre stack via MCP. Chaque appel nourrit le playbook […] pas juste des notes CRM.",
+   "en": "Eagr plugs into your stack over MCP. Every call feeds the playbook, and your sales data becomes an asset you can use, not just CRM notes.",
+   "kind": "pattern",
+   "scope": "/features/coaching-post-rdv"
+  },
+  {
+   "fr": "Vos nouveaux commerciaux s'entraînent avant le premier vrai prospect.",
+   "en": "Your new reps practice before their first real prospect.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "s'entraînent",
+   "en": "practice",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Un commercial met 3 à 6 mois à être opérationnel, […] calquées sur vos rendez-vous réels.",
+   "en": "A new rep takes 3 to 6 months to ramp, and too often learns live, on your real deals. Eagr trains them from day one on simulations modeled on your real calls.",
+   "kind": "pattern",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Sans entraînement, vos nouveaux commerciaux apprennent sur vos vrais deals",
+   "en": "Without practice, new reps learn on your real deals",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "vrais deals",
+   "en": "real deals",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Ils ont lu le playbook. Mais ils n'ont jamais eu à le défendre […] à vos frais.",
+   "en": "They’ve read the playbook. But they’ve never had to defend it against a real objection. Their first real prospect becomes their first practice session, at your expense.",
+   "kind": "pattern",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "La réputation du deal, déjà abîmée",
+   "en": "The deal is already damaged",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "\"Le manager corrige après le call.\"",
+   "en": "“The manager will fix it after the call.”",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Sur un vrai prospect déjà agacé, une confiance déjà entamée. […]",
+   "en": "With a real prospect who’s already annoyed and trust already dented. The damage is done before the feedback arrives.",
+   "kind": "pattern",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "3 à 6 mois avant d'être vraiment opérationnel",
+   "en": "3 to 6 months to fully ramp",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "\"Il a lu le playbook, il connaît la théorie.\"",
+   "en": "“They’ve read the playbook. They know the theory.”",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Mais il n'a jamais eu à la restituer sous pression, […] La théorie ne suffit pas.",
+   "en": "But they’ve never had to apply it under pressure, facing a silent or rushed decision-maker. Theory isn’t enough.",
+   "kind": "pattern",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Deal perdu sur une erreur de débutant",
+   "en": "Deal lost to a rookie mistake",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "\"C'est le premier vrai rendez-vous du nouveau commercial.\"",
+   "en": "“It’s the new rep’s first real call.”",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Il improvise face à l'objection prix. Personne n'est là pour l'aider en direct. Le prospect sent l'hésitation.",
+   "en": "They improvise on the price objection. No one is there to help live. The prospect senses the hesitation.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Un commercial ne devrait pas apprendre à gérer une objection sur un deal à 40K€. […]",
+   "en": "A rep shouldn’t learn to handle an objection on a $40K deal. They need room to make mistakes first, with no consequences.",
+   "kind": "pattern",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "2x",
+   "en": "3",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "plus rapide pour monter en puissance un nouveau commercial",
+   "en": "difficulty levels per persona",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "des compétences du playbook validées avant le premier vrai call",
+   "en": "of playbook skills checked off before the first real call",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "deal réel mis en risque pendant l’entraînement",
+   "en": "real deals put at risk during practice",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "À l’infini",
+   "en": "Unlimited",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "personas types, calqués sur les prospects que vos équipes croisent vraiment",
+   "en": "practice runs on personas modeled on the prospects your team actually meets",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Des personas tirés de vos calls",
+   "en": "Personas drawn from your calls",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Pas des archétypes génériques. Le prospect pressé, celui qui bloque sur le prix, le décideur silencieux - ceux que vos équipes croisent vraiment.",
+   "en": "Not generic archetypes. The rushed prospect, the one stuck on price, the silent decision-maker: the people your team actually meets.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Personas extraits de vrais appels analysés",
+   "en": "Personas extracted from real, analyzed calls",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Objections calquées sur votre marché",
+   "en": "Objections modeled on your market",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Mis à jour avec les nouveaux patterns détectés",
+   "en": "Updated as new patterns emerge",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "3 niveaux de difficulté par persona",
+   "en": "3 difficulty levels per persona",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Un parcours d'onboarding balisé",
+   "en": "A structured onboarding path",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Une série de mises en situation pour valider chaque compétence du playbook, une à une, avant le premier rendez-vous.",
+   "en": "A series of scenarios to check off every playbook skill, one by one, before the first real call.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Étapes ordonnées selon votre playbook",
+   "en": "Steps ordered by your playbook",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Progression visible pour le manager",
+   "en": "Progress visible to the manager",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Compétence validée avant de passer à la suivante",
+   "en": "Each skill validated before moving to the next",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Rejouable autant de fois que nécessaire",
+   "en": "Replay as many times as needed",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Un feedback immédiat",
+   "en": "Instant feedback",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Sur les mêmes critères que vos vrais appels : ce qui était bon, ce qu'il faut retravailler - tout de suite, pas au prochain 1:1.",
+   "en": "Scored on the same criteria as your real calls: what worked and what to rework, right away, not at the next 1:1.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Évalué sur les critères du playbook réel",
+   "en": "Scored on your actual playbook criteria",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Comparable aux scores de Live coach et Coaching post-rdv",
+   "en": "Comparable with Live Coach and Post-call Coaching scores",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Visible par le manager dans le suivi onboarding",
+   "en": "Visible to the manager in onboarding tracking",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Ce que Role Play IA propose",
+   "en": "What AI Roleplay gives you",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Des personas. Un parcours. Un feedback",
+   "en": "Personas. A path. Feedback.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "feedback",
+   "en": "Feedback.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Role Play IA ne remplace pas la formation humaine. Il donne à chaque nouveau commercial le nombre de répétitions qu'un manager ne peut pas offrir seul.",
+   "en": "AI Roleplay doesn’t replace human training. It gives every new rep the volume of practice no manager can provide alone.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Le playbook devient des scénarios",
+   "en": "Your playbook becomes scenarios",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Eagr transforme les objections et personas réels - extraits de vos vrais appels - en mises en situation à jouer.",
+   "en": "Eagr turns the real objections and personas from your calls into scenarios to play.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Le commercial simule l'appel",
+   "en": "The rep runs the call",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Face à un prospect IA calqué sur vos vrais profils : le pressé, celui qui bloque sur le prix, le décideur silencieux.",
+   "en": "Against an AI buyer modeled on your real profiles: the rushed one, the one stuck on price, the silent decision-maker.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Feedback immédiat, mêmes critères",
+   "en": "Instant feedback, same criteria",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Ce qui était bon, ce qu'il faut retravailler - évalué sur les mêmes critères que Live coach et Coaching post-rdv.",
+   "en": "What worked and what to rework, scored on the same criteria as Live Coach and Post-call Coaching.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Validé avant le premier vrai rendez-vous",
+   "en": "Validated before the first real call",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Chaque compétence du playbook est cochée une à une, avant que le commercial ne prenne un vrai appel seul.",
+   "en": "Every playbook skill is checked off, one by one, before the rep takes a real call alone.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "De votre playbook à la simulation jouée.",
+   "en": "From your playbook to a live simulation.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "simulation",
+   "en": "simulation",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Essayez une simulation vous-même.",
+   "en": "Try a simulation yourself.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Pas le même rôle. Pas le même bénéfice.",
+   "en": "Different roles. Different wins.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "bénéfice",
+   "en": "wins",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Vous voyez précisément quelle compétence chaque nouveau commercial a validée […]",
+   "en": "See exactly which skills each new rep has validated and where they’re still stuck, without spending hours role-playing with them yourself.",
+   "kind": "pattern",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Nouveau commercial",
+   "en": "New rep",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Ils peuvent se tromper, recommencer, tester une approche plus risquée, sans qu'un vrai prospect ne soit jamais en jeu.",
+   "en": "They can get it wrong, start over and try a bolder approach, with no real prospect on the line.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Les personas et objections simulés évoluent avec les patterns détectés sur les vrais appels, pas un support de formation figé depuis un an.",
+   "en": "Simulated personas and objections evolve with the patterns found in real calls, not training material frozen a year ago.",
+   "kind": "exact",
+   "scope": "/features/roleplay-ia"
+  },
+  {
+   "fr": "Toute votre data d'appels, depuis votre LLM.",
+   "en": "All your call data, right from your LLM.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "data d'appels",
+   "en": "call data",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Vos rendez-vous sont une mine d'or que personne ne peut lire en entier, […] et interrogez-la.",
+   "en": "Your calls are a gold mine no one can read end to end, and your CRM doesn’t have the transcripts. Connect Claude, ChatGPT or Gemini to all your call data and ask it anything.",
+   "kind": "pattern",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Compatible avec votre LLM",
+   "en": "Works with your LLM",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Se connecte à votre CRM pour l'enrichissement automatique",
+   "en": "Connects to your CRM for automatic enrichment",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Connectez votre LLM",
+   "en": "Connect your LLM",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Un serveur MCP Eagr expose votre data d'appels à Claude, GPT ou Gemini. Connexion en quelques minutes, aucun code à écrire.",
+   "en": "Eagr’s MCP server gives Claude, ChatGPT or Gemini access to your call data. Connect in minutes, no code.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Définissez les accès",
+   "en": "Set access",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Vous scopez qui voit quoi, par rôle et par équipe, avant toute question. […]",
+   "en": "Decide who sees what, by role and team, before anyone asks a question. A rep doesn’t query the same data as a sales leader or RevOps.",
+   "kind": "pattern",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Interrogez en langage naturel",
+   "en": "Ask in plain English",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Depuis votre outil IA habituel : \"Quels comptes ont évoqué un concurrent ce mois-ci ?\" - aucune syntaxe à apprendre.",
+   "en": "From the AI tool you already use: “Which accounts mentioned a competitor this month?” No syntax to learn.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Recevez une réponse sourcée, exploitable dans votre CRM",
+   "en": "Get a sourced answer you can use in your CRM",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Pas un échantillon : toute la data d'appels indexée, avec les sources citées. […]",
+   "en": "Not a sample: every call indexed, with sources cited. Structured signals can be pushed back to HubSpot, Salesforce and your other connected tools.",
+   "kind": "pattern",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Vos appels entrent. Votre LLM sait y répondre",
+   "en": "Your calls come in. Your LLM has the answers.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "répondre",
+   "en": "answers",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Branchez votre LLM en moins de 5 minutes.",
+   "en": "Connect your LLM in under 5 minutes.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Veille concurrentielle",
+   "en": "Competitive intelligence",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Ce qui se dit de vos concurrents, extrait de chaque appel et compté automatiquement - pas une impression, un chiffre.",
+   "en": "What prospects say about your competitors, pulled from every call and counted automatically. Not a hunch, a number.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Détection automatique des concurrents cités",
+   "en": "Automatic detection of competitor mentions",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Contexte de la mention (prix, feature, churn)",
+   "en": "Context of each mention (price, feature, churn)",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Historique mensuel par concurrent",
+   "en": "Monthly history by competitor",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Alertable dès qu'un nouveau concurrent apparaît",
+   "en": "Alerts when a new competitor shows up",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Retours sur le prix",
+   "en": "Pricing feedback",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "La perception du pricing telle qu'elle est vraiment exprimée en appel, pas une estimation approximative.",
+   "en": "How prospects really react to your pricing on calls, not a rough estimate.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "% d'appels où le prix est objecté",
+   "en": "% of calls with a price objection",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Évolution suivie mois par mois",
+   "en": "Tracked month over month",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Comparable par segment ou par commercial",
+   "en": "Comparable by segment or by rep",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Alimente vos revues de pricing",
+   "en": "Feeds your pricing reviews",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Opportunités d'upsell détectées",
+   "en": "Upsell opportunities detected",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Les signaux enfouis dans vos comptes rendus, remontés avant qu'ils ne soient oubliés.",
+   "en": "Signals buried in your call notes, surfaced before they’re forgotten.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Signaux extraits automatiquement de chaque appel",
+   "en": "Signals extracted automatically from every call",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Priorisés par compte et par probabilité",
+   "en": "Ranked by account and likelihood",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Visibles par les Sales et le Customer Success",
+   "en": "Visible to Sales and Customer Success",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Enrichissement CRM automatique",
+   "en": "Automatic CRM enrichment",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Les champs structurés se remplissent seuls, dans HubSpot, Salesforce, Pipedrive, Sellsy, Odoo ou Zoho.",
+   "en": "Structured fields fill themselves in HubSpot, Salesforce, Pipedrive, Sellsy, Odoo or Zoho.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Objection principale, budget, prochaine étape",
+   "en": "Main objection, budget, next step",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Mis à jour après chaque appel",
+   "en": "Updated after every call",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Aucun champ à remplir à la main",
+   "en": "No fields to fill in by hand",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Cas d'usage à générer directement depuis votre LLM",
+   "en": "What you can generate straight from your LLM",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "LLM",
+   "en": "LLM",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Posez une question en langage naturel. Vous recevez un livrable exploitable, pas juste une réponse en texte.",
+   "en": "Ask a question in plain English. Get a deliverable you can use, not just a text answer.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Un accès puissant. Pas un accès grand ouvert.",
+   "en": "Powerful access. Not open access.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Donner à un LLM les clés de toute votre data d’appels pose une question légitime : qui voit quoi. […]",
+   "en": "Giving an LLM the keys to all your call data raises a fair question: who sees what? Here’s how it’s locked down by default.",
+   "kind": "pattern",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Accès scopé par rôle",
+   "en": "Role-based access",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Chaque réponse est sourcée",
+   "en": "Every answer is sourced",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Appels et comptes cités pour chaque réponse, avec un lien direct vers l'extrait de transcript exact.",
+   "en": "Calls and accounts cited in every answer, with a direct link to the exact transcript excerpt.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Lecture seule par défaut",
+   "en": "Read-only by default",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Votre LLM interroge la data d’appels, il ne modifie rien dans Eagr ni dans votre CRM sans action explicite.",
+   "en": "Your LLM reads call data. It changes nothing in Eagr or your CRM without an explicit action.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "RGPD",
+   "en": "GDPR",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Hébergé en UE",
+   "en": "Hosted in the EU",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Vos données d’appels restent hébergées en UE et traitées selon les mêmes règles que le reste d’Eagr.",
+   "en": "Your call data stays in the EU and follows the same rules as the rest of Eagr.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Interrogez vos appels. Depuis votre LLM",
+   "en": "Query your calls. From your LLM.",
+   "kind": "exact",
+   "scope": "/features/mcp"
+  },
+  {
+   "fr": "Eagr se connecte à vos outils, pas l’inverse.",
+   "en": "Eagr fits your tools, not the other way around.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "vos outils",
+   "en": "your tools",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "CRM, téléphonie, visio, LLM : Eagr se branche sur ce que votre équipe utilise déjà. […]",
+   "en": "CRM, dialer, video, LLM: Eagr plugs into what your team already uses. No migration, no training, no manual exports.",
+   "kind": "pattern",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "intégrations natives, CRM, téléphonie, visio et LLM confondus",
+   "en": "native integrations across CRM, telephony, video and LLMs",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "< 5 min",
+   "en": "< 5 min",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "pour connecter un outil, sans développeur",
+   "en": "to connect a tool, no developer needed",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "ligne de code à écrire pour se connecter",
+   "en": "lines of code to connect",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "des accès scopés par rôle et réversibles à tout moment",
+   "en": "of access role-based and revocable anytime",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Vous ne trouvez pas votre outil ?",
+   "en": "Don’t see your tool?",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Dites-nous quel CRM ou quel outil vous utilisez. On regarde avec vous si une connexion est possible.",
+   "en": "Tell us which CRM or tool you use, and we’ll check with you whether we can connect it.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Faire la demande",
+   "en": "Request it",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Choisissez votre outil",
+   "en": "Pick your tool",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Parcourez le catalogue : CRM, téléphonie, visioconférence, outils de productivité ou LLM - 17 intégrations natives au total.",
+   "en": "Browse the catalog: CRM, telephony, video conferencing, productivity tools or LLMs. 17 native integrations in all.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Autorisez l'accès",
+   "en": "Authorize access",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Connexion sécurisée, scopée par rôle. Vous choisissez ce qui est partagé, pas un accès grand ouvert par défaut.",
+   "en": "Secure, role-based connection. You choose what’s shared; nothing is wide open by default.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Vos données commencent à circuler",
+   "en": "Your data starts flowing",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Comptes rendus, signaux et scores remontent automatiquement dans votre CRM, ou deviennent interrogeables depuis votre LLM.",
+   "en": "Call reports, signals and scores sync to your CRM automatically, or become queryable from your LLM.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Ajustez à tout moment",
+   "en": "Adjust anytime",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Déconnectez ou reconnectez un outil sans perdre vos données. Rien n'est figé au moment du setup.",
+   "en": "Disconnect or reconnect a tool without losing data. Nothing is locked in at setup.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Une connexion. Pas un projet d'intégration.",
+   "en": "A connection, not an integration project.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "connexion",
+   "en": "connection",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Connectez votre premier outil dès aujourd'hui.",
+   "en": "Connect your first tool today.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Commencer",
+   "en": "Get started",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Branchez Eagr. Gardez vos outils.",
+   "en": "Plug in Eagr. Keep your tools.",
+   "kind": "exact",
+   "scope": "/features/integrations"
+  },
+  {
+   "fr": "Vous pilotez sur 5% des appels. Eagr écoute les 95% restants",
+   "en": "You manage on 5% of calls. Eagr covers the other 95%.",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "95% restants",
+   "en": "other 95%",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Eagr extrait le playbook de vos meilleurs commerciaux et coache chaque appel en temps réel. […]",
+   "en": "Eagr turns what your best reps do into a playbook and coaches every call against it in real time. Every decision is finally based on 100% of calls, not a random sample.",
+   "kind": "pattern",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "des appels de l’équipe analysés, pas un échantillon",
+   "en": "of your team’s calls analyzed, not a sample",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "2x",
+   "en": "+20%",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "plus rapide pour monter en puissance un nouveau commercial",
+   "en": "vs. a control group at MGEN",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "-40%",
+   "en": "5x",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "de temps manager passé à écouter des appels et préparer les débriefs",
+   "en": "conversion rate in 4 months at Onepilot",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Combien vous coûte l'écart entre vos meilleurs et vos moins bons ?",
+   "en": "What does the gap between your best and weakest reps cost you?",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Chez nos clients, l'écart de conversion entre le meilleur et le moins bon commercial d'une même équipe atteint parfois 25 points. […]",
+   "en": "Across our customers, the conversion gap between the best and weakest rep on the same team can reach 25 points. Enter your numbers to estimate yours.",
+   "kind": "pattern",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Découvrez le Cockpit manager",
+   "en": "Explore the Manager Cockpit",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Simulateur : propriété « Devise » (€) et unités des champs (€, /mois)",
+   "en": "Devise = $ · unités : $ et /month",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Manque à gagner estimé",
+   "en": "Estimated revenue gap",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Par an, si tous vos commerciaux convertissaient au niveau de votre top performer.",
+   "en": "Per year, if every rep converted like your top performer.",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Taux de conversion",
+   "en": "Conversion rate",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Top Performer",
+   "en": "Top performer",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "reste de l'équipe",
+   "en": "Rest of the team",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Panier moyen",
+   "en": "Average deal size",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Leads traités par mois, toute l'équipe",
+   "en": "Leads worked per month, whole team",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "3 choses qui changent concrètement votre semaine de directeur commercial",
+   "en": "3 things that change your week as a sales leader",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "directeur commercial",
+   "en": "sales leader",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Le playbook de vos meilleurs, pas une grille générique",
+   "en": "Your best reps’ playbook, not a generic scorecard",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Eagr extrait les patterns gagnants de vos propres appels, pas d’une bibliothèque générique. […] au rythme de vos lancements produits.",
+   "en": "Eagr pulls winning patterns from your own calls, not a generic library. The playbook stays alive: refreshed every 6 to 8 weeks, in step with your product launches.",
+   "kind": "pattern",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Extrait de vos propres deals gagnés",
+   "en": "Built from your own won deals",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Enrichi par le contexte de votre CRM",
+   "en": "Enriched with your CRM context",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Mis à jour en continu, jamais figé après le kickoff",
+   "en": "Continuously updated, never frozen after kickoff",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Le coaching pendant l’appel, pas après",
+   "en": "Coaching during the call, not after it",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Pendant que la plupart des outils analysent après coup, […] en 3 secondes.",
+   "en": "Most tools analyze after the fact. Eagr coaches your reps during the call itself, with a suggestion based on your playbook in 3 seconds.",
+   "kind": "pattern",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Suggestion en direct, pas un débrief a posteriori",
+   "en": "Live suggestions, not an after-the-fact debrief",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Calibré sur le playbook de vos tops",
+   "en": "Calibrated on your top performers’ playbook",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Un effet miroir, pas une surveillance managériale",
+   "en": "A mirror for the rep, not manager surveillance",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Vos recrues progressent à l’entraînement, pas sur votre pipeline",
+   "en": "New hires ramp on practice, not on your pipeline",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Le même playbook qui coache vos tops sert de terrain d’entraînement à vos nouvelles recrues. […]",
+   "en": "The same playbook that coaches your top reps becomes the training ground for new hires. They practice on simulations modeled on your real calls before meeting their first real prospect.",
+   "kind": "pattern",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Simulations calquées sur vos rendez-vous réels",
+   "en": "Simulations modeled on your real calls",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Le playbook des tops, transmis dès le premier jour",
+   "en": "Your top reps’ playbook, from day one",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Progression suivie compétence par compétence",
+   "en": "Progress tracked skill by skill",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Interrogez toute votre data en langage naturel",
+   "en": "Query all your data in plain English",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Depuis votre outil IA habituel, posez la question et obtenez une réponse sourcée. […]",
+   "en": "Ask from the AI tool you already use and get a sourced answer. Handy for prepping a leadership or pipeline review, with no manual extraction.",
+   "kind": "pattern",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Connecté à Claude, ChatGPT ou Gemini",
+   "en": "Works with Claude, ChatGPT or Gemini",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Réponses sourcées sur 100% des appels",
+   "en": "Sourced answers across 100% of calls",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Accès scopé par rôle, pas un accès grand ouvert",
+   "en": "Role-based access, not open access",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Connecté à votre stack, sans rien changer",
+   "en": "Plugs into your stack. Nothing to change.",
+   "kind": "exact",
+   "scope": "/roles/directeur-commerciaux"
+  },
+  {
+   "fr": "Vous savez vendre. Eagr vous rend imbattable",
+   "en": "You know how to sell. Eagr makes you hard to beat.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "imbattable",
+   "en": "hard to beat",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Eagr vous coache pendant l’appel, pas seulement après coup. […] sans jugement.",
+   "en": "Eagr coaches you during the call, not just after. A clear score, your strengths and one thing to work on: what you need to get better, call after call, with no judgment.",
+   "kind": "pattern",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "3s",
+   "en": "3 s",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "temps moyen pour une suggestion pendant l’appel",
+   "en": "average time to a suggestion during the call",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "de conversion chez Alegria avec le Live Coach",
+   "en": "conversion rate at Alegria with Live Coach",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "formation requise pour commencer à progresser",
+   "en": "training needed to start improving",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Pourquoi les commerciaux ne peuvent plus se passer d’Eagr ?",
+   "en": "Why reps don’t want to sell without Eagr anymore",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "commerciaux",
+   "en": "reps",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Un copilote qui vous souffle la bonne réponse",
+   "en": "A copilot that feeds you the right answer",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Dès qu’une objection ou un silence est détecté, une suggestion discrète s’affiche à l’écran, en 3 secondes. […]",
+   "en": "The moment an objection or a silence is detected, a discreet suggestion appears on screen within 3 seconds. You stay in charge of the call, and you’re never alone when things go off script.",
+   "kind": "pattern",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Détection en temps réel des objections et signaux d’achat",
+   "en": "Real-time detection of objections and buying signals",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Suggestion discrète, jamais un script à lire",
+   "en": "A discreet suggestion, never a script to read",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "0 formation requise pour démarrer",
+   "en": "No training needed to start",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Un score et un plan clair, sans réécouter votre appel",
+   "en": "A score and a clear plan, without replaying your call",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Résumé, score et 2 à 3 axes de progression, générés automatiquement. […]",
+   "en": "Summary, score and 2 to 3 focus areas, generated automatically. You know exactly what to work on before the next call, without spending an hour on it.",
+   "kind": "pattern",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Résumé et score générés en quelques minutes",
+   "en": "Summary and score in minutes",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "CRM mis à jour automatiquement, zéro saisie",
+   "en": "CRM updated automatically, zero data entry",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Vos progrès suivis d’un appel sur l’autre",
+   "en": "Your progress tracked call over call",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Entraînez-vous sur l'objection qui vous bloque",
+   "en": "Practice the objection that trips you up",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Rejouez la situation exacte face à un prospect IA, autant de fois qu’il faut, […] déjà prêt.",
+   "en": "Replay the exact situation against an AI prospect as many times as you need before you face it for real. You walk into the next call ready.",
+   "kind": "pattern",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Simulation calquée sur vos vrais appels",
+   "en": "Simulations modeled on your real calls",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Feedback immédiat, mêmes critères qu'un vrai call",
+   "en": "Instant feedback, same criteria as a real call",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Aucun deal réel mis en risque pendant l’entraînement",
+   "en": "No real deal at risk while you practice",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "L'appel démarre",
+   "en": "The call starts",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Rien à activer. Eagr écoute et analyse en arrière-plan, dès que l'appel commence.",
+   "en": "Nothing to switch on. Eagr listens and analyzes in the background as soon as the call starts.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Une objection arrive",
+   "en": "An objection comes up",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Une suggestion s'affiche discrètement à l'écran, sans jamais couper votre rythme ou lire un script à voix haute.",
+   "en": "A suggestion appears discreetly on screen. It never breaks your rhythm or turns you into a script reader.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Résumé, score et axe prioritaire arrivent en quelques minutes. Le CRM se met à jour tout seul.",
+   "en": "Summary, score and your top focus area arrive in minutes. The CRM updates itself.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Avant le prochain call difficile",
+   "en": "Before the next tough call",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Vous rejouez la situation avec Role Play IA, autant de fois qu'il faut, avant de la retrouver pour de vrai.",
+   "en": "You replay it in AI Roleplay as many times as you need before facing it for real.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Pendant l'appel, vous progressez. Pas seulement au 1:1.",
+   "en": "You get better during the call. Not just at your 1:1.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Pendant",
+   "en": "during the call",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Voyez Eagr vous coacher en direct.",
+   "en": "Watch Eagr coach you live.",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Progressez avec des faits Pas avec des impressions",
+   "en": "Improve on facts, not impressions",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "faits",
+   "en": "facts",
+   "kind": "exact",
+   "scope": "/roles/commerciaux"
+  },
+  {
+   "fr": "Un CRM toujours à jour. Zéro saisie manuelle.",
+   "en": "A CRM that’s always up to date. Zero manual entry.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Zéro",
+   "en": "Zero",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Eagr écoute chaque appel, extrait les données qui comptent et met à jour votre CRM tout seul. […]",
+   "en": "Eagr listens to every call, extracts the data that matters and updates your CRM on its own. Your stack doesn’t change. Your data finally becomes reliable.",
+   "kind": "pattern",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "minute de saisie CRM manuelle après un appel",
+   "en": "minutes of manual CRM entry after a call",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "des appels loggés automatiquement, pas un échantillon",
+   "en": "of calls logged automatically, not a sample",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "-6h",
+   "en": "2 min",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "de reporting manuel gagnées chaque semaine",
+   "en": "from hang-up to updated CRM fields",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "La donnée juste. Sans effort humain.",
+   "en": "Accurate data. No human effort.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Sans effort",
+   "en": "No human effort.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Chaque appel devient une fiche CRM propre",
+   "en": "Every call becomes a clean CRM record",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Étape du deal, objection principale, décisionnaire, prochaine action : […] zéro rappel Slack.",
+   "en": "Deal stage, main objection, decision-maker, next step: everything syncs to the CRM as soon as the rep hangs up. Zero data entry, zero Slack reminders.",
+   "kind": "pattern",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Champs clés extraits automatiquement de chaque appel",
+   "en": "Key fields extracted automatically from every call",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Mis à jour dans les 2 minutes après l’appel",
+   "en": "Updated within 2 minutes of the call",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Même format de donnée, pour toute l’équipe",
+   "en": "Same data format for the whole team",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Connecté à vos outils, sans rien reconstruire",
+   "en": "Connected to your tools, nothing to rebuild",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Salesforce, HubSpot, Pipedrive, votre téléphonie, Slack : […] sans migration ni double saisie.",
+   "en": "Salesforce, HubSpot, Pipedrive, your dialer, Slack: Eagr sets up on your current stack in minutes, with no migration and no double entry.",
+   "kind": "pattern",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Synchronisation native avec votre CRM existant",
+   "en": "Native sync with your existing CRM",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Compatible avec votre téléphonie actuelle",
+   "en": "Works with your current dialer",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Aucun développement requis pour démarrer",
+   "en": "No development needed to start",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Un reporting fiable, généré tout seul",
+   "en": "Reliable reporting that builds itself",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Les dashboards d’équipe et les tendances de performance se construisent depuis les vraies conversations, […]",
+   "en": "Team dashboards and performance trends are built from real conversations, not self-reported data. Share them in one click, with no file reconciliation.",
+   "kind": "pattern",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Construit sur les vrais appels, pas sur du déclaratif",
+   "en": "Built from real calls, not self-reported data",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Prêts à partager pour vos comités",
+   "en": "Ready to share in leadership reviews",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Vos données interrogeables en langage naturel",
+   "en": "Your data, queryable in plain English",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Depuis Claude, ChatGPT ou votre outil IA habituel, posez une question sur votre pipeline ou vos appels […]",
+   "en": "From Claude, ChatGPT or the AI tool you already use, ask about your pipeline or calls and get a sourced answer, with no manual export and no SQL.",
+   "kind": "pattern",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Connexion native via MCP, sans intégration sur mesure",
+   "en": "Native connection over MCP, no custom integration",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Réponses sourcées depuis les vrais appels",
+   "en": "Answers sourced from real calls",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Aucune compétence technique requise",
+   "en": "No technical skills required",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Eagr écoute chaque appel",
+   "en": "Eagr listens to every call",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Transcription et analyse en temps réel, sur 100% des appels de l'équipe, sans rien installer côté commercial.",
+   "en": "Real-time transcription and analysis on 100% of your team’s calls.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Extraction structurée des données clés",
+   "en": "Structured extraction of key data",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Étape du deal, objection, décisionnaire, prochaine action : chaque signal utile est identifié et catégorisé.",
+   "en": "Deal stage, objection, decision-maker, next step: every useful signal is identified and categorized.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Synchronisation automatique dans le CRM",
+   "en": "Automatic CRM sync",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Les champs se mettent à jour directement dans Salesforce, HubSpot ou Pipedrive, sans intervention manuelle.",
+   "en": "Fields update directly in Salesforce, HubSpot or Pipedrive, with no manual work.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Le playbook s'enrichit tout seul",
+   "en": "The playbook keeps learning",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Les patterns des meilleurs performers alimentent le playbook, qui reste vivant au lieu de rester un PDF figé.",
+   "en": "Your top performers’ patterns feed the playbook, so it stays alive instead of sitting in a static PDF.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "L'appel se termine. La donnée est déjà là.",
+   "en": "The call ends. The data’s already there.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "La donnée",
+   "en": "The data",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Voyez la synchro tourner sur votre CRM.",
+   "en": "See the sync run on your CRM.",
+   "kind": "exact",
+   "scope": "/roles/revops"
+  },
+  {
+   "fr": "Nos tarifs",
+   "en": "Pricing",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Un seul prix. Zéro petites lignes",
+   "en": "One price. No fine print.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Un prix par commercial, tout compris, sans engagement. Et 7 jours pour essayer Eagr gratuitement sur vos propres appels.",
+   "en": "One price per rep, everything included, no contract. Plus 7 days to try Eagr free on your own calls.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Aucun frais de plateforme ni d'implémentation cachés",
+   "en": "No hidden platform or implementation fees",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Onboarding et ateliers playbook inclus",
+   "en": "Onboarding and playbook workshops included",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Opérationnel en 48h, données hébergées en Europe",
+   "en": "Live in 48 hours, data hosted in the EU",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Tout inclus",
+   "en": "All-inclusive",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Sélecteur : Sans engagement",
+   "en": "Monthly",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Sélecteur : Engagement 12 mois",
+   "en": "Annual · save 15%",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "79 € HT",
+   "en": "$99",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "67 € HT",
+   "en": "$84",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Par commercial et par mois HT",
+   "en": "per rep / month",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "résiliable à tout moment",
+   "en": "cancel anytime",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "engagement 12 mois",
+   "en": "12-month commitment",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Essayer 7 jours gratuitement",
+   "en": "Start your 7-day free trial",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Création de compte en quelques minutes. Sans engagement.",
+   "en": "Set up your account in minutes. No contract.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Essai gratuit de 7 jours, sans engagement.",
+   "en": "7-day free trial. No contract.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "L’offre",
+   "en": "The plan",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Une seule offre. Tout dedans.",
+   "en": "One plan. Everything in it.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Tout dedans.",
+   "en": "Everything in it.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Personne ne naît commercial. Les réflexes se construisent par la répétition, […] le cœur de ce qu'on fait.",
+   "en": "Every call coached: before, during and after. One plan, every feature, every integration.",
+   "kind": "pattern",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Avant l’appel",
+   "en": "Before the call",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Role Play IA sur vos vrais scénarios",
+   "en": "AI Roleplay on your real scenarios",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Personas tirés de vos appels",
+   "en": "Personas built from your calls",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Pendant l’appel",
+   "en": "During the call",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Nos réponses à vos questions",
+   "en": "Your questions, answered",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "vos questions",
+   "en": "answered",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Rubriques",
+   "en": "Topics",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Découvrir Eagr",
+   "en": "About Eagr",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Sécurité & RGPD",
+   "en": "Security & GDPR",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Tarifs et démarrage",
+   "en": "Pricing & getting started",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Qu’est-ce qu’Eagr, concrètement ?",
+   "en": "What exactly is Eagr?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Eagr est un coach commercial propulsé par l’IA. […] qui accompagner et sur quoi en priorité.",
+   "en": "Eagr is an AI sales coach. It analyzes every call your team makes and coaches reps live, during the call, while there’s still time to act. After every call, each rep gets a score, focus areas and a next step. And every Monday, managers know who to coach and on what.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "À qui s’adresse Eagr ?",
+   "en": "Who is Eagr for?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Aux équipes commerciales qui vendent en rendez-vous, au téléphone ou en visio : […] sans saisie manuelle.",
+   "en": "Sales teams that sell on calls, by phone or video: reps, coached on every call; sales managers and leaders, who see the whole team’s level without replaying a single call; and RevOps, who get an up-to-date CRM and reliable data with no manual entry.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Eagr est-il fait pour nous ?",
+   "en": "Is Eagr right for us?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Si votre équipe mène des rendez-vous commerciaux en visio ou au téléphone […] une démo sur vos propres cas.",
+   "en": "If your team runs sales calls by video or phone and you want everyone to improve, not just your top performers, yes. Eagr plugs into your current tools, is live in 48 hours and has no contract. The easiest way to be sure: a demo on your own calls.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Quelle différence avec Modjo, Gong ou Leexi ?",
+   "en": "How is Eagr different from Gong and other call recorders?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Modjo, Gong ou Leexi sont avant tout des outils d’enregistrement et d’analyse : […] pour préparer l’appel suivant.",
+   "en": "Gong and other call recorders mainly record and analyze: they tell you what happened once the call is over. Eagr tells reps what to do. It coaches them live, during the call, then turns every call into individual and team coaching plans, with AI roleplay to prepare for the next one.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Le commercial n’est-il pas distrait par les suggestions pendant l’appel ?",
+   "en": "Won’t suggestions distract reps during the call?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Le prospect peut-il voir qu’on utilise Eagr ?",
+   "en": "Can the prospect see that we use Eagr?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Non. Les suggestions du Live coach n’apparaissent que sur l’écran du commercial. Le prospect n’en voit rien.",
+   "en": "No. Live Coach suggestions only appear on the rep’s screen. The prospect sees nothing.",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Attention : l’enregistrement de l’appel, lui, doit être annoncé au prospect. Voir la question sur le consentement dans la rubrique",
+   "en": "Note: the prospect must still be told the call is recorded. See the consent question under",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Comment fonctionne le playbook personnalisé ?",
+   "en": "How does the custom playbook work?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Pas encore de playbook ? Eagr en construit un à partir des vrais appels de votre équipe. […]",
+   "en": "No playbook yet? Eagr builds one from your team’s real calls. After a month of calls, you get a structured playbook that keeps evolving on its own.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Quelles compétences sont évaluées ?",
+   "en": "Which skills are scored?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Celles de votre playbook. Chaque appel est noté compétence par compétence : […] suivie dans le temps.",
+   "en": "The ones in your playbook. Every call is scored skill by skill: discovery, qualification, objection handling, closing, or any other step in your sales method. Each skill is compared with the team average and the target, and its progress is tracked over time.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Quelles téléphonies et visios sont compatibles ?",
+   "en": "Which dialers and video tools are supported?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Côté visio, Eagr fonctionne avec Google Meet, Zoom et Microsoft Teams. […]",
+   "en": "For video, Eagr works with Google Meet, Zoom and Microsoft Teams. For telephony, it connects to Aircall, Ringover, Onoff and Allo, among others. Don’t see your tool? Tell us which one you use and we’ll check whether we can connect it.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Quels CRM sont compatibles ?",
+   "en": "Which CRMs are supported?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Eagr se synchronise nativement avec HubSpot, Salesforce, Pipedrive, Odoo, Zoho et Sellsy. […]",
+   "en": "Eagr syncs natively with HubSpot, Salesforce, Pipedrive, Odoo, Zoho and Sellsy. Your CRM isn’t listed? Contact us and we’ll look into it with you.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Faut-il un développeur pour connecter nos outils ?",
+   "en": "Do we need a developer to connect our tools?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Non. Chaque outil se connecte en moins de 5 minutes, […] réversibles à tout moment.",
+   "en": "No. Each tool connects in under 5 minutes, with no code. Access is role-based and revocable anytime.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Qu’est-ce qu’Eagr remplit automatiquement dans le CRM ?",
+   "en": "What does Eagr fill in automatically in the CRM?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Dès que le commercial raccroche, Eagr extrait les informations clés de l’appel […] sans saisie manuelle.",
+   "en": "As soon as the rep hangs up, Eagr extracts the key information from the call and syncs it to your CRM: deal stage, main objection, decision-maker, next step. Everything is updated within 2 minutes, in the same format for the whole team, with no manual entry.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Eagr est-il conforme au RGPD ?",
+   "en": "Is Eagr GDPR compliant?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Qui a accès aux appels et aux données ?",
+   "en": "Who can access calls and data?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Les accès sont gérés par rôle. […] ne servent jamais à entraîner de modèles d’IA.",
+   "en": "Access is role-based. Each rep only sees their own calls and performance. Managers see their team’s data, individual and aggregated. Your data is hosted in the EU and is never used to train AI models.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Comment gérer le consentement à l’enregistrement ?",
+   "en": "How do we handle recording consent?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Comme pour tout enregistrement d’appel, le prospect doit être informé […] pour toute l’équipe.",
+   "en": "As with any call recording, the prospect must be told at the start that the call is recorded, and be able to object. Rules vary by country and by US state. A one-line intro usually covers it, and during onboarding we help you set up simple, compliant wording for the whole team.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Est-ce un outil de surveillance ?",
+   "en": "Is this a surveillance tool?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Non. Eagr est un outil de coaching, pas de contrôle. […] pas pour réécouter les appels de chacun.",
+   "en": "No. Eagr is a coaching tool, not a monitoring one. Its job is to help every rep improve, with concrete advice after every call and targeted practice. Each rep only sees their own data, and managers use it to know who to coach and on what, not to replay everyone’s calls.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Combien coûte Eagr ?",
+   "en": "How much does Eagr cost?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Eagr coûte 79 € HT par commercial et par mois, […] 7 jours gratuitement sur vos propres appels.",
+   "en": "$99 per rep per month with no contract, cancel anytime, or $84 per rep per month with a 12-month commitment (15% off). Everything is included: no platform or implementation fees, onboarding and playbook workshops included. And you can try it free for 7 days on your own calls.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Y a-t-il un engagement de durée ?",
+   "en": "Is there a minimum contract?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Non. L’offre de base est sans engagement et résiliable à tout moment. Si vous préférez vous engager sur 12 mois, le prix baisse de 15 %.",
+   "en": "No. The standard plan has no contract and you can cancel anytime. If you commit for 12 months, the price drops by 15%.",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Combien de temps pour être opérationnel ?",
+   "en": "How long until we’re up and running?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Au bout de combien de temps voit-on des résultats ?",
+   "en": "How soon will we see results?",
+   "kind": "exact",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Très vite. Une cinquantaine d’appels suffit […] +15 points de progression des compétences après 8 semaines.",
+   "en": "Fast. About fifty calls are enough to surface your team’s first patterns. With Live Coach, Alegria lifted its conversion rate by 18%, and Onepilot multiplied its conversion rate by 5 in 4 months.",
+   "kind": "pattern",
+   "scope": "/faq"
+  },
+  {
+   "fr": "Étude de cas",
+   "en": "Customer stories",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Ils ont transformé leur équipe commerciale. Voici comment",
+   "en": "How sales teams changed the way they sell",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« Des fois, j'écoute un truc, je donne mon retour, […] il comprend ce que j'ai en tête. »",
+   "en": "“Sometimes I listen to a call, give my feedback, then see that Eagr said the same thing, only simpler or better. We’re in sync. It gets what I have in mind.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Manager BDR",
+   "en": "BDR Manager",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Dashdoc",
+   "en": "Dashdoc",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« On a pris quasiment plus trente pour cent de rendez-vous en moyenne […] sur les trois derniers mois. »",
+   "en": "“We booked almost 30% more meetings on average among Eagr users versus last year. That’s over €600K in revenue per person over the last three months.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Manager équipe commerciale téléphonique",
+   "en": "Inside Sales Manager",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Asgard",
+   "en": "Asgard",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« J'ai été bluffé. Les réponses sont concrètes, c'est fluide. […] »",
+   "en": "“I was blown away. The answers are concrete and it flows. It really helps find the right questions to dig as deep as possible.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Chef des ventes",
+   "en": "Sales Manager",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "GBH",
+   "en": "GBH",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« Franchement, je suis un peu sur le cul parce que c'est tout ce que j'ai demandé. […] »",
+   "en": "“Honestly, I’m floored. It’s everything I asked for. You did exactly what I asked. It’s perfect.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "cofondateur",
+   "en": "Co-founder",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "L'Amusoire",
+   "en": "L’Amusoire",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« Ce que tu m'as montré est bien au-dessus de Claap et Modjo […] avant même de l'avoir testé. »",
+   "en": "“What you showed me is way ahead of Claap and Modjo for driving sales performance. I was already telling people about it before I’d even tried it.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "fondateur",
+   "en": "Founder",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Graad",
+   "en": "Graad",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« De ce que je vois là, tu es beaucoup plus pertinent que Claap. […] »",
+   "en": "“From what I’ve seen, you’re far more relevant than Claap. Honestly, it’s a banger. It saves us a crazy amount of time and makes us so much more productive.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "dirigeant",
+   "en": "CEO",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Clovis",
+   "en": "Clovis",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "« J'ai aucun doute, aucun, sur le fait que le logiciel peut me faire gagner énormément de temps […] »",
+   "en": "“I have no doubt, none, that the software can save me a huge amount of time and sharpen my closers’ skills.”",
+   "kind": "pattern",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Head of Sales, associé",
+   "en": "Head of Sales & Partner",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Beauty Boost",
+   "en": "Beauty Boost",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Tout voir",
+   "en": "View all",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Aucun cas client",
+   "en": "No stories yet",
+   "kind": "exact",
+   "scope": "/use-cases"
+  },
+  {
+   "fr": "Une équipe qui connaît la vente",
+   "en": "A team that knows sales",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "la vente",
+   "en": "sales",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Eagr est construit par une petite équipe obsédée par une idée simple : […] sur le terrain.",
+   "en": "Eagr is built by a small team obsessed with one simple idea: reps who practice win more. We built the tool we wished we’d had in the field.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Notre histoire",
+   "en": "Our story",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Un [constat] de terrain, pas une idée de salle de réunion.",
+   "en": "A [lesson] from the field, not a boardroom idea.",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Tout part d'une frustration partagée entre frères : […] un système complet pour répliquer la performance commerciale.",
+   "en": "It started with a frustration two brothers shared: reps almost never practice. Pilots log hours in simulators; athletes drill until it’s automatic. Reps meet the objection for the first time live, in front of the customer. Yet practice is what builds reflexes. So that’s where we started: AI roleplay to rehearse calls before running them for real. Then our customers asked for more. Analyze real calls. Help managers coach. Feed reps the right answer during the call. Eagr became a complete system to replicate sales performance.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Les fondateurs",
+   "en": "The founders",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "2 frères, une idée en [commun]",
+   "en": "2 brothers, one [shared] idea",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Co-fondateur · CEO",
+   "en": "Co-founder & CEO",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Il porte la vision et la relation client. […] son critique le plus exigeant.",
+   "en": "He drives the vision and owns customer relationships. Always on a call with a prospect, he’s Eagr’s first user and its toughest critic.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Co-fondateur · Produit (CPO)",
+   "en": "Co-founder & CPO",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Il construit ce que son frère vend. […] c'est lui qui décide de ce qu'Eagr devient.",
+   "en": "He builds what his brother sells. From field feedback to new features, he decides what Eagr becomes.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Ce qui nous fait avancer",
+   "en": "What drives us",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "3 convictions. Pas une de plus.",
+   "en": "3 beliefs. Not one more.",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "3 convictions",
+   "en": "3 beliefs",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Entraînez-vous avant de jouer.",
+   "en": "Practice before you play.",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Personne ne naît closer. […] le cœur de ce qu'on fait.",
+   "en": "No one is born a closer. Reflexes come from repetition, feedback and more repetition. That’s where Eagr started, and it’s still at the heart of what we do.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Le terrain a toujours raison.",
+   "en": "The field is always right.",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "On ne construit rien depuis un bureau. […] Les faits d'abord, l'intuition ensuite.",
+   "en": "We don’t build anything from behind a desk. Every Eagr feature came from a customer call, a botched objection, a manager who didn’t have time to listen to everything. Facts first, intuition second.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Transmettez ce qui marche.",
+   "en": "Pass on what works.",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Le vrai succès d'une équipe commerciale, ce n'est pas un top performer. […]",
+   "en": "A sales team’s real success isn’t one top performer. It’s a method that gets passed on, survives turnover and helps every new hire improve from week one.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Affamé",
+   "en": "Hungry",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Avide",
+   "en": "Eager",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Préparé",
+   "en": "Prepared",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Entraîné",
+   "en": "Trained",
+   "kind": "exact",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Le couteau entre les dents. L'envie d'aller chercher le deal. Notre nom, c'est notre posture. […]",
+   "en": "Hungry for the deal and ready to go get it. Our name is our attitude: Eagr, as in eager. We’re a sales team building for sales teams, and we own the ambition, the speed and the will to win.",
+   "kind": "pattern",
+   "scope": "/equipe"
+  },
+  {
+   "fr": "Nos articles",
+   "en": "Latest articles",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Faites progresser votre équipe commerciale",
+   "en": "Help your sales team get better",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "équipe commerciale",
+   "en": "sales team",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Techniques de vente, coaching et IA pour booster la performance.",
+   "en": "Sales techniques, coaching and AI to lift performance.",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Lire l’article",
+   "en": "Read article",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Prêt à voir Eagr sur vos calls ?",
+   "en": "Ready to see Eagr on your calls?",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "vos calls ?",
+   "en": "your calls?",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Une démo de 30 minutes sur vos propres appels, pour voir ce que le coach change dès le premier rendez-vous.",
+   "en": "A 30-minute demo on your own calls, to see what the coach changes from the very first call.",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Prospect IA",
+   "en": "AI prospect",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Votre commercial",
+   "en": "Your rep",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Devenez le meilleur commercial",
+   "en": "Become your team’s best rep",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Entraînez vos commerciaux face à un prospect IA, sur vos vraies objections, avant le vrai rendez-vous.",
+   "en": "Train your reps against an AI prospect, on your real objections, before the real call.",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Rejoignez les +60 équipes qui font confiance à Eagr",
+   "en": "Join 60+ sales teams that trust Eagr",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Aucun article dans cette catégorie pour le moment.",
+   "en": "No articles in this category yet.",
+   "kind": "exact",
+   "scope": "/blog"
+  },
+  {
+   "fr": "Réservez votre créneau de 30mn",
+   "en": "Book your 30-minute slot",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "30 minutes, adaptées à votre équipe. Pas de slides génériques. Vos informations restent confidentielles.",
+   "en": "30 minutes, tailored to your team. No generic slides. Your details stay private.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "L'agenda ne s'affiche pas ? Ouvrir la prise de rendez-vous",
+   "en": "Calendar not loading? Open the booking page",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Rendez-vous confirmé",
+   "en": "You’re booked",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "C'est noté, à très vite",
+   "en": "Got it. Talk soon.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Votre rendez-vous est bien enregistré. […] pas d'un cas générique.",
+   "en": "Your demo is confirmed. We’ll prepare based on what you told us, so we talk about your team, not a generic case.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "L'invitation arrive par email, avec le lien Google Meet",
+   "en": "Your invite is on its way by email, with the Google Meet link",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Besoin de décaler ? Le lien de modification est dans l'invitation",
+   "en": "Need to reschedule? The link is in the invite",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pas de mail reçu ? Regardez dans vos spams ou écrivez-nous",
+   "en": "No email? Check your spam folder or write to us",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Cette page a décroché.",
+   "en": "This page hung up.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Le signal est perdu, mais votre parcours continue. […]",
+   "en": "We lost the signal, but you can keep going. Head back home or book a call with the Eagr team.",
+   "kind": "pattern",
+   "scope": null
+  },
+  {
+   "fr": "Live coach : la bonne réponse en 3 s",
+   "en": "Live Coach: the right answer in 3 seconds",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Détection des objections en direct",
+   "en": "Live objection detection",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Après l’appel",
+   "en": "After the call",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Analyse et score de chaque appel",
+   "en": "Every call analyzed and scored",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "CRM rempli automatiquement",
+   "en": "CRM filled in automatically",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Pour le manager",
+   "en": "For managers",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Cockpit manager et santé des deals",
+   "en": "Manager Cockpit and deal health",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Rituel du lundi par commercial",
+   "en": "Weekly Pulse, rep by rep",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Pour la data",
+   "en": "For your data",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "MCP : vos appels dans Claude, ChatGPT, Gemini",
+   "en": "MCP: your calls in Claude, ChatGPT and Gemini",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Vue consolidée Revenue Ops",
+   "en": "Consolidated RevOps view",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Partout",
+   "en": "Everywhere",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Intégrations téléphonie, visio et CRM",
+   "en": "Dialer, video and CRM integrations",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Hébergement EU et RGPD",
+   "en": "EU hosting, GDPR compliant",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Combien Eagr peut-il vous rapporter ?",
+   "en": "How much could Eagr earn you?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Ne regardez pas le prix. Regardez ce que vous perdez",
+   "en": "Don’t look at the price. Look at what you’re losing.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "vous perdez",
+   "en": "what you’re losing",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Chaque objection mal gérée, c'est un deal qui part. Bougez les curseurs avec vos chiffres.",
+   "en": "Every badly handled objection is a deal walking out the door. Plug in your numbers.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Combien de deals avez-vous perdus le mois dernier ?",
+   "en": "How many deals did you lose last month?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Combien vous auriez pu en sauver si vos commerciaux appliquaient 100 % de votre méthodologie qui fonctionne ?",
+   "en": "What share could you have saved if every rep followed your proven method 100% of the time?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Quel est votre panier moyen ?",
+   "en": "What’s your average deal size?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "€",
+   "en": "$",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Manque à gagner estimé",
+   "en": "Estimated revenue lost",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Ce que vous coûte, chaque année, une méthode de vente mal appliquée",
+   "en": "What a poorly applied sales method costs you every year",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Testez 7 jours sur vos appels",
+   "en": "Try it free for 7 days on your calls",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Le prix affiché est-il vraiment tout compris ?",
+   "en": "Is the price really all-inclusive?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Oui. Une seule offre, tout dedans : […] l’onboarding comme les ateliers playbook sont inclus.",
+   "en": "Yes. One plan with everything: Live Coach, Post-call Coaching, AI Roleplay, Manager Cockpit, MCP and every integration. No hidden platform or implementation fees, and onboarding and playbook workshops are included.",
+   "kind": "pattern",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Comment fonctionne l'essai gratuit ?",
+   "en": "How does the free trial work?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Vous testez Eagr pendant 7 jours sur vos propres appels, […] dès son prochain rendez-vous.",
+   "en": "You test Eagr for 7 days on your own calls, free and with no contract. Request access in seconds; account setup takes a few minutes, and your team can be coached from its very next call.",
+   "kind": "pattern",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Y a-t-il plusieurs formules ?",
+   "en": "Are there different plans?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Non, une seule offre qui inclut tout. Seule la durée change : 79 € HT par commercial et par mois, […] ou 67 € HT avec un engagement de 12 mois (-15 %).",
+   "en": "No. One plan with everything. Only the term changes: $99 per rep per month with no contract, cancel anytime, or $84 per rep per month with a 12-month commitment (15% off).",
+   "kind": "pattern",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Y a-t-il un minimum de licences ?",
+   "en": "Is there a minimum number of seats?",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Non. Eagr est facturé par commercial : […] et vous pouvez en ajouter à tout moment.",
+   "en": "No. Eagr is billed per rep: you only pay for the seats your team needs, and you can add more anytime.",
+   "kind": "pattern",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "7 jours pour voir la différence. Gratuitement",
+   "en": "7 days to see the difference. Free.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Gratuitement",
+   "en": "Free.",
+   "kind": "exact",
+   "scope": "/tarif"
+  },
+  {
+   "fr": "Eagr | Coaching commercial IA en temps réel",
+   "en": "Eagr — AI sales coaching, live on every call",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr analyse 100% des rendez-vous commerciaux, coache vos sales en direct pendant l'appel et indique chaque lundi qui accompagner. Essai gratuit 7 jours.",
+   "en": "Eagr analyzes every sales call, coaches your reps live while the deal is still in play, and tells managers every Monday who to coach on what.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Live coach : la bonne réponse en 3 secondes | Eagr",
+   "en": "Live Coach — the right answer in 3 seconds, mid-call | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Pendant l'appel, Eagr détecte objections et signaux critiques et souffle la bonne réponse au commercial en 3 secondes. Invisible pour le prospect.",
+   "en": "Eagr listens to the call, catches objections and buying signals, and shows your rep the right answer from your playbook in 3 seconds. Invisible to the prospect.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Cockpit manager : pilotez 100% des appels | Eagr",
+   "en": "Manager Cockpit — know who to coach on what | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr analyse chaque appel de votre équipe : vrai niveau de chaque deal, commerciaux à coacher, risques pipeline, sans écouter un seul call.",
+   "en": "Every call scored skill by skill, a health score on every deal and a Weekly Pulse every Monday. Coach your team without listening to a single call.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Coaching post-rendez-vous automatique | Eagr",
+   "en": "Post-call Coaching — a score and a plan after every call | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Après chaque appel, Eagr livre au commercial son score, ses axes de progression et sa prochaine action, et met à jour le CRM sans saisie.",
+   "en": "When the call ends, each rep gets a score, their top 3 focus areas and a next step, and the CRM updates itself.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Roleplay IA : entraînement commercial | Eagr",
+   "en": "AI Roleplay — practice the hard call before the real one | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Vos commerciaux s'entraînent sur des simulations calquées sur vos vrais rendez-vous, dès l'onboarding, avant leur premier vrai prospect.",
+   "en": "New reps rehearse against AI buyers built from your real calls, with instant feedback on your playbook’s criteria, before their first real prospect.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "MCP : interrogez vos appels depuis votre LLM | Eagr",
+   "en": "MCP — your call data in Claude, ChatGPT and Gemini | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Branchez Claude, ChatGPT ou Gemini sur toute votre data d'appels commerciaux grâce au MCP d'Eagr, et posez vos questions en langage naturel.",
+   "en": "Connect your LLM to every analyzed sales call. Ask in plain English and get sourced answers, with role-based access and read-only by default.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Intégrations CRM, téléphonie et visio | Eagr",
+   "en": "Integrations — Eagr works with your CRM, dialer and video tools | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr se branche sur votre CRM, votre téléphonie, vos outils de visio et votre LLM. Pas de migration, pas de formation, pas d'export manuel.",
+   "en": "17 native integrations across CRM, telephony, video and LLMs. Connect a tool in under 5 minutes, no developer needed.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr pour les directeurs commerciaux",
+   "en": "Eagr for sales leaders — manage on 100% of calls, not 5% | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr extrait le playbook de vos meilleurs commerciaux et coache chaque appel en temps réel. Pilotez sur 100% des appels, pas sur 5%.",
+   "en": "Eagr turns what your best reps do into a playbook, coaches every call in real time and shows you where each rep and deal really stands.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr pour les commerciaux | Coaching pendant l'appel",
+   "en": "Eagr for account executives — get coached on every call | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr vous coache pendant l'appel, puis vous donne un score, vos points forts et un axe de progression après chaque rendez-vous, sans jugement.",
+   "en": "A suggestion on screen in 3 seconds when an objection hits, a score and one focus area after every call, and practice on the objection that trips you up.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr pour les RevOps | CRM à jour sans saisie",
+   "en": "Eagr for RevOps — a CRM that updates itself | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr écoute chaque appel, extrait les données qui comptent et met à jour votre CRM tout seul. Votre stack ne change pas, vos données deviennent fiables.",
+   "en": "Eagr listens to every call, extracts the fields that matter and updates Salesforce, HubSpot or Pipedrive within 2 minutes. No manual entry.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Tarifs | Eagr, un seul prix tout inclus",
+   "en": "Pricing — one plan, $",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "79 € HT par commercial et par mois sans engagement, ou -15 % sur 12 mois. Onboarding, ateliers playbook et données hébergées en Europe inclus.",
+   "en": "9",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Questions fréquentes | Eagr",
+   "en": "FAQ — Live Coach, data, integrations and pricing | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Live coach, données et sécurité, intégrations, tarifs et démarrage : toutes les réponses à vos questions sur Eagr.",
+   "en": "Answers on Live Coach, data and security, integrations, pricing and getting started with Eagr.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Cas clients | Eagr",
+   "en": "Customer stories — how sales teams use Eagr | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Découvrez comment des équipes commerciales utilisent Eagr pour fiabiliser leur CRM, suivre chaque deal et faire vivre leur playbook au quotidien.",
+   "en": "How sales teams use Eagr to coach every call, in their own words.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "L'équipe Eagr | Une équipe qui connaît la vente",
+   "en": "Team — the people building Eagr | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr est construit par deux frères et une petite équipe convaincus d'une idée simple : les commerciaux qui s'entraînent gagnent plus.",
+   "en": "Eagr is built by a small team of salespeople who wanted the coaching tool they never had.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Blog : coaching commercial et vente | Eagr",
+   "en": "Blog — sales techniques, coaching and AI | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Conseils, méthodes et retours d'expérience pour coacher vos commerciaux, appliquer votre playbook et closer plus de deals.",
+   "en": "Sales techniques, coaching and AI to lift your team’s performance.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Réservez une démo | Eagr",
+   "en": "Book a demo | Eagr",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "30 minutes sur un cas concret de votre équipe : vous repartez avec un diagnostic et un plan d'action, pas juste une démonstration produit.",
+   "en": "30 minutes on your own calls, tailored to your team.",
+   "kind": "exact",
+   "scope": null
+  },
+  {
+   "fr": "Eagr analyse vos rendez-vous commerciaux et coache vos équipes en temps réel. Transformez les comportements gagnants en système avec Eagr.",
+   "en": "Eagr analyzes every sales call, coaches your reps live while the deal is still in play, and tells managers every Monday who to coach on what.",
+   "kind": "exact",
+   "scope": null
+  }
+ ],
+ "slugs": {
+  "tarif": "pricing",
+  "equipe": "team",
+  "cockpit-manager": "manager-cockpit",
+  "coaching-post-rdv": "post-call-coaching",
+  "roleplay-ia": "ai-roleplay",
+  "directeur-commerciaux": "sales-leaders",
+  "commerciaux": "account-executives",
+  "use-cases": "customer-stories",
+  "merci": "thank-you",
+  "mentions-legales": "legal-notice",
+  "politique-de-confidentialite": "privacy-policy",
+  "conditions-generales-de-vente": "terms-of-sale",
+  "conditions-generales-d-utilisation": "terms-of-use",
+  "accord-de-traitement-des-donnees": "data-processing-agreement"
+ }
+}
